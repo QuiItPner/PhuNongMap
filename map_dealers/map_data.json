@@ -319,6 +319,13 @@
     },
     {
       "khu_vuc": "Long An",
+      "dai_ly": "Lê Văn Bự",
+      "lat": 10.2588,
+      "lon": 105.545,
+      "dia_chi": "645 Đường Quốc Lộ 91, Trung Kiên, Thuận Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Long An",
       "dai_ly": "Trần Ngọc Giao",
       "lat": 10.8926,
       "lon": 105.777,
@@ -351,6 +358,13 @@
       "lat": 10.6932,
       "lon": 106.126,
       "dia_chi": "ĐT. 817, Xã Thạnh Phước, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Văn Ngoan",
+      "lat": 10.0346,
+      "lon": 105.787,
+      "dia_chi": "8 Đường Phan Đình Phùng, Cần Thơ, Ninh Kiều, Cần Thơ"
     },
     {
       "khu_vuc": "Long An",
@@ -512,260 +526,6 @@
       "lat": 10.5354,
       "lon": 106.079,
       "dia_chi": "Đường Tỉnh 868, Tân Thạnh, Tây Ninh"
-    }
-  ],
-  "Cần Thơ": [
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Lê Văn Bự",
-      "lat": 10.2588,
-      "lon": 105.545,
-      "dia_chi": "645 Đường Quốc Lộ 91, Trung Kiên, Thuận Hưng, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Văn Ngoan",
-      "lat": 10.0346,
-      "lon": 105.787,
-      "dia_chi": "8 Đường Phan Đình Phùng, Cần Thơ, Ninh Kiều, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Võ Văn Hợp",
-      "lat": 10.2436,
-      "lon": 105.524,
-      "dia_chi": "Thạnh Hòa, Trung Nhứt, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Trần Ngọc Minh Châu",
-      "lat": 10.2754,
-      "lon": 105.529,
-      "dia_chi": "577 Đường Quốc Lộ 91, Thốt Nốt, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Thị Ngọc Hường",
-      "lat": 10.095,
-      "lon": 105.43,
-      "dia_chi": "Shop Phùng Liên, Cờ Đỏ, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Thành Nguyên",
-      "lat": 10.0303,
-      "lon": 105.558,
-      "dia_chi": "Trường Thắng, Thới Lai, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Đỗ Ngọc Dương",
-      "lat": 10.1779,
-      "lon": 105.344,
-      "dia_chi": "Tiệm Thủy Kf, Đường Quốc Lộ 80, Thạnh Tiến, Thạnh Quới, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Văn Dũng",
-      "lat": 10.0931,
-      "lon": 105.428,
-      "dia_chi": "Đường tỉnh 921, Xã Cờ Đỏ, Thành phố Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Hoàng Đức Thành",
-      "lat": 10.1472,
-      "lon": 105.33,
-      "dia_chi": "Xã Thạnh An, Thành phố Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Tống Bảo Long",
-      "lat": 10.006,
-      "lon": 105.53,
-      "dia_chi": "Xã Trường Xuân, Thành phố Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Phạm Ngọc Quân",
-      "lat": 10.2645,
-      "lon": 105.538,
-      "dia_chi": "Hẻm Số 2 Khu Dân Cư Ấp Phụng Thạnh 1, Thuận Hưng, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Trần Văn Phường",
-      "lat": 10.1551,
-      "lon": 105.464,
-      "dia_chi": "Đường Tỉnh Lộ 921, Cờ Đỏ, Trung Hưng, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Lê Hoàng Giang",
-      "lat": 10.151,
-      "lon": 105.5,
-      "dia_chi": "Xã Trung Hưng, Thành phố Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Minh Thúy",
-      "lat": 10.0268,
-      "lon": 105.596,
-      "dia_chi": "Xã Trường Thành, Thành phố Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Trần Thị Bích Phượng",
-      "lat": 10.2045,
-      "lon": 105.438,
-      "dia_chi": "Thạnh Lộc, Vĩnh Thạnh, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Lê Thị Cẩm Vấn",
-      "lat": 10.1702,
-      "lon": 105.413,
-      "dia_chi": "Tiệm Vàng Thủy Tiên, Đường Bốn Tổng-Một Ngàn, Thạnh Quới, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Thị Thuỳ Hương",
-      "lat": 10.2225,
-      "lon": 105.544,
-      "dia_chi": "Trung Thạnh, Trung Hưng, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Tấn Đạt",
-      "lat": 10.079,
-      "lon": 105.42,
-      "dia_chi": "Đường Thới Đông, Thới Xuân, Cờ Đỏ, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Thị Kim Huệ",
-      "lat": 10.2083,
-      "lon": 105.258,
-      "dia_chi": "Thạnh Lợi, Thạnh An, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Thanh Tiến",
-      "lat": 10.2135,
-      "lon": 105.379,
-      "dia_chi": "Cửa Hàng Điện Thoại Di Động, 2282 Đường Quốc Lộ 80, Thạnh Quới, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Đinh Trí Hữu",
-      "lat": 10.2292,
-      "lon": 105.553,
-      "dia_chi": "503 Đường Quốc Lộ 91, Thuận Hưng, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Châu Thị Mỹ Phương",
-      "lat": 10.3002,
-      "lon": 105.464,
-      "dia_chi": "Nhà Thuốc Bích Thắm, Đường Quốc Lộ 80, Vĩnh Trinh, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Thanh Lâm",
-      "lat": 10.0681,
-      "lon": 105.545,
-      "dia_chi": "Đường Tỉnh Lộ 922, Thới Lai, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Vũ Quang Huy",
-      "lat": 10.1582,
-      "lon": 105.435,
-      "dia_chi": "Xã Thạnh Phú, Thành phố Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Phan Quốc Thuấn",
-      "lat": 10.2985,
-      "lon": 105.485,
-      "dia_chi": "Khu dân cư Số 2, Xã Vĩnh Trinh, Thành phố Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Văn Đời",
-      "lat": 10.093,
-      "lon": 105.42,
-      "dia_chi": "Xã Cờ Đỏ, Thành phố Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Đặng Lê Minh",
-      "lat": 10.0934,
-      "lon": 105.43,
-      "dia_chi": "81 Đường Hà Huy Giáp, Cờ Đỏ, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Lư Nhựt Trường",
-      "lat": 10.2053,
-      "lon": 105.505,
-      "dia_chi": "Beauty Salon Chi Kiệp, Đường Tỉnh Lộ 921, Trung An, Trung Nhứt, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Văn Toàn",
-      "lat": 10.1781,
-      "lon": 105.477,
-      "dia_chi": "Trường Trung Học Cơ Sở Trung Hưng, Đường Tỉnh Lộ 921, Cờ Đỏ, Trung Hưng, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Phạm Văn Kỷ",
-      "lat": 10.0351,
-      "lon": 105.524,
-      "dia_chi": "Thới Lai, Thành phố Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Thị Thêm",
-      "lat": 10.0851,
-      "lon": 105.587,
-      "dia_chi": "48 Đường Tỉnh Lộ 922, Trường Thành, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Võ Hoàng Lan",
-      "lat": 10.0794,
-      "lon": 105.382,
-      "dia_chi": "Thới Đông, Cờ Đỏ, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Huỳnh Văn Trọng",
-      "lat": 10.2269,
-      "lon": 105.341,
-      "dia_chi": "Xã Thạnh Quới, Thành phố Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Đỗ Minh Châu",
-      "lat": 10.1777,
-      "lon": 105.344,
-      "dia_chi": "Nước Mắm Phú Quốc Hồng Phước, Đường Quốc Lộ 80, Thạnh Tiến, Thạnh Quới, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Nguyễn Đăng Phục",
-      "lat": 10.0054,
-      "lon": 105.534,
-      "dia_chi": "Nhà Nghỉ Huệ Vân, Đường Bốn Tổng - Một Ngàn, Trường Xuân, Cần Thơ"
-    },
-    {
-      "khu_vuc": "Cần Thơ",
-      "dai_ly": "Dương Văn Hải",
-      "lat": 10.0264,
-      "lon": 105.772,
-      "dia_chi": "C150 Đường Trần Văn Hoài, Xuân Khánh, Ninh Kiều, Cần Thơ"
     }
   ],
   "Kiên Giang": [
@@ -1380,656 +1140,17 @@
     },
     {
       "khu_vuc": "Kiên Giang",
-      "dai_ly": "Lê Trần Siêng",
-      "lat": 9.773463,
-      "lon": 105.321042,
-      "dia_chi": "Đường tỉnh 963D, An Lợi, Xã Gò Quao, Tỉnh An Giang"
-    }
-  ],
-  "Miền Đông": [
-    {
-      "khu_vuc": "Miền Đông",
       "dai_ly": "Đường Lê Văn Sỹ, District 3, Ho Chi Minh City",
       "lat": 10.7893532,
       "lon": 106.6751898,
       "dia_chi": "Đường Lê Văn Sỹ, Phường 14, Nhiêu Lộc, Hồ Chí Minh"
     },
     {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Thị Thanh Tiền",
-      "lat": 11.1869,
-      "lon": 107.573,
-      "dia_chi": "Đường Ngô Gia Tự, Đức Linh, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Trương Ngọc Vinh",
-      "lat": 11.212,
-      "lon": 108.35,
-      "dia_chi": "Quốc lộ 28B, Lương Tây, Lương Sơn, Xã Lương Sơn, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Phạm Thị Ngọc Thi",
-      "lat": 11.2171,
-      "lon": 108.421,
-      "dia_chi": "Đường Quốc Lộ 1, Phan Thanh, Hồng Thái, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Huỳnh Tấn Trí",
-      "lat": 11.1935,
-      "lon": 108.373,
-      "dia_chi": "Đường Quốc Lộ 1, Lương Sơn, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Tấn Hải",
-      "lat": 11.1987,
-      "lon": 108.281,
-      "dia_chi": "Bình Tân, Sông Lũy, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Hà Văn Ngọ",
-      "lat": 11.1052,
-      "lon": 108.132,
-      "dia_chi": "Đường Quốc Lộ 28, Hàm Trí, Hàm Thuận Bắc, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Chín Sương",
-      "lat": 11.0991,
-      "lon": 108.105,
-      "dia_chi": "Xã Hàm Thuận Bắc, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Thị Mỹ Lệ",
-      "lat": 11.2281,
-      "lon": 108.497,
-      "dia_chi": "Chợ Lầu, Xã Bắc Bình, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Ngọc Như Hy",
-      "lat": 11.1733,
-      "lon": 108.214,
-      "dia_chi": "Xã Hồng Sơn, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Trần Ngọc Phiên",
-      "lat": 11.0007,
-      "lon": 108.158,
-      "dia_chi": "Đường Quốc Lộ 1, Hàm Đức, Hàm Thuận, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Thị Nhị",
-      "lat": 11.0301,
-      "lon": 108.163,
-      "dia_chi": "Đường Quốc Lộ 1, Hàm Đức, Hàm Thuận, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Ngọc Châu",
-      "lat": 11.1289,
-      "lon": 108.11,
-      "dia_chi": "Hàm Thuận Bắc (xã), Bình Thuận"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Minh Cân",
-      "lat": 11.2282,
-      "lon": 108.496,
-      "dia_chi": "Xã Bắc Bình, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Đặng Văn Cường",
-      "lat": 11.2155,
-      "lon": 107.355,
-      "dia_chi": "Ấp 2, Xã Phú Vinh, Thành phố Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Trần Văn Lắm",
-      "lat": 11.2629,
-      "lon": 107.289,
-      "dia_chi": "Đường tỉnh 776, Ấp 3, Xã Thanh Sơn, Thành phố Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Thị Nguyệt",
-      "lat": 11.3697,
-      "lon": 107.491,
-      "dia_chi": "Đường 600A, Nam Cát Tiên, Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Vũ Minh Công",
-      "lat": 11.0846,
-      "lon": 107.033,
-      "dia_chi": "Đường Nguyễn Tất Thành, Trị An, Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Đỗ Thị Vân",
-      "lat": 10.9408,
-      "lon": 107.312,
-      "dia_chi": "Thọ Trung, Xã Xuân Lộc, Thành phố Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Ngọc Sơn",
-      "lat": 11.2918,
-      "lon": 107.497,
-      "dia_chi": "Rửa Xe Bọt Tuyết, Đường Hùng Vương, Phú Lâm, Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Thanh Phương",
-      "lat": 11.151,
-      "lon": 107.62,
-      "dia_chi": "Tạp Hóa Lan, Đường Tỉnh Lộ 720, Gia An, Tánh Linh, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Ngọc Quang",
-      "lat": 11.2707,
-      "lon": 107.489,
-      "dia_chi": "Thanh Thọ 3, Xã Phú Lâm, Thành phố Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Bùi Thanh Sơn",
-      "lat": 11.1523,
-      "lon": 107.355,
-      "dia_chi": "Hiệp Lực, Hoà Thuận, Xã Định Quán, Thành phố Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Võ Công Thường",
-      "lat": 11.1906,
-      "lon": 107.718,
-      "dia_chi": "Cafe Trung Anh, Tỉnh Lộ 336, Bắc Ruộng, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Trần Quang Quảng",
-      "lat": 11.3838,
-      "lon": 107.533,
-      "dia_chi": "Đường Hùng Vương, Đạ Huoai, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Đặng Thị Hiếu",
-      "lat": 11.3477,
-      "lon": 107.331,
-      "dia_chi": "Ấp 7, Xã Thanh Sơn, Thành phố Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Văn Phương",
-      "lat": 11.1461,
-      "lon": 107.628,
-      "dia_chi": "Gia An, Tánh Linh, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Thị Kim Sâm",
-      "lat": 11.4818,
-      "lon": 107.625,
-      "dia_chi": "Đường tỉnh 730, Bình An, Xã Đạ Huoai 2, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Phan Lê Thị Huyền Trân",
-      "lat": 11.2894,
-      "lon": 107.504,
-      "dia_chi": "Đường tỉnh 774, Phú Hợp A, Xã Phú Lâm, Thành phố Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Thị Thanh Tuyền",
-      "lat": 11.4098,
-      "lon": 107.627,
-      "dia_chi": "Đường Đèo Chuối, Hà Lâm, Đạ Huoai 2, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Dương Ngọc Hùng",
-      "lat": 11.1458,
-      "lon": 107.493,
-      "dia_chi": "Đức Tín, Hoài Đức, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Thành Hưng",
-      "lat": 11.225,
-      "lon": 107.29,
-      "dia_chi": "Ấp 2, Xã Thanh Sơn, Thành phố Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Vũ Đức Anh",
-      "lat": 11.0909,
-      "lon": 107.215,
-      "dia_chi": "Đường Hùng Vương, Thống Nhất, Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Gip A Cẩu",
-      "lat": 10.9868,
-      "lon": 107.088,
-      "dia_chi": "Cây Điều, Xã Bàu Hàm, Thành phố Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Thị Mỹ Hiệp",
-      "lat": 11.1835,
-      "lon": 107.53,
-      "dia_chi": "Đức Chính, Đức Linh, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Đình Thế",
-      "lat": 11.0364,
-      "lon": 107.312,
-      "dia_chi": "Đường Tỉnh Lộ 763, Xuân Bắc, Đồng Nai"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Đoàn Văn Thành Nghĩa",
-      "lat": 11.751,
-      "lon": 108.18,
-      "dia_chi": "Mỹ Hà, Xã Tân Hà Lâm Hà, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Đỗ Văn Dũng",
-      "lat": 11.7731,
-      "lon": 108.257,
-      "dia_chi": "Lâm Hà, Đinh Văn Lâm Hà, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Phạm Văn Toàn",
-      "lat": 11.8446,
-      "lon": 108.603,
-      "dia_chi": "Quốc lộ 27, Đường Mới, D'Ran, Xã D'Ran, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Vũ Thạch Quy",
-      "lat": 11.6156,
-      "lon": 108.213,
-      "dia_chi": "Đường Quốc Lộ 20, Tam Bố, Gia Hiệp, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Cảnh Minh Hà",
-      "lat": 11.9426,
-      "lon": 108.515,
-      "dia_chi": "Đường Đèo Dran, Xuân Thọ, Xuân Trường-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Văn Hảo",
-      "lat": 11.7603,
-      "lon": 108.479,
-      "dia_chi": "Đường Quốc Lộ 27, Đơn Dương, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lương Thị Hạnh Dung",
-      "lat": 11.7273,
-      "lon": 108.521,
-      "dia_chi": "Đường tỉnh 729, Hòa Bình, Diom A, Xã Quảng Lập, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lầu A Múi",
-      "lat": 11.7046,
-      "lon": 108.37,
-      "dia_chi": "Phú Hội, Đức Trọng, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Thị Hiền Lương",
-      "lat": 11.9768,
-      "lon": 108.42,
-      "dia_chi": "Đường Phước Thành, Phường 7, Lang Biang-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Cao Thị Lan",
-      "lat": 11.7969,
-      "lon": 108.546,
-      "dia_chi": "Đường Quốc Lộ 27, Lạc Xuân, D'Ran, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Vũ Vy Vy",
-      "lat": 11.9729,
-      "lon": 108.441,
-      "dia_chi": "41 Đường Phù Đổng Thiên Vương, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Thiều Minh",
-      "lat": 11.8055,
-      "lon": 108.579,
-      "dia_chi": "Đường tỉnh 729, Hòa Bình, Diom A, Xã D'Ran, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Trần Thị Diệu Linh",
-      "lat": 12.0502,
-      "lon": 108.488,
-      "dia_chi": "Đạ Sar, Lạc Dương, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Tài Sắc Múi",
-      "lat": 11.7054,
-      "lon": 108.368,
-      "dia_chi": "Phú Lộc, Xã Đức Trọng, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Trần Thị Lệ Tuyết",
-      "lat": 11.7793,
-      "lon": 108.427,
-      "dia_chi": "Đường Quốc Lộ 27, Hiệp Thạnh, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Thạch Ngọc Thanh",
-      "lat": 12.0019,
-      "lon": 108.415,
-      "dia_chi": "Đường Đan Kia, Lang Biang-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Thị Thu Hà",
-      "lat": 11.9653,
-      "lon": 108.453,
-      "dia_chi": "Hiệu May Nhàn, Đường Nguyên Tử Lực, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Quốc Anh",
-      "lat": 11.94,
-      "lon": 108.5,
-      "dia_chi": "Xuân Trường-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Ngô Thị Kim Vân",
-      "lat": 11.9448,
-      "lon": 108.493,
-      "dia_chi": "63 Đường Tự Phước, Xuân Trường-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Vy Thị Hiên",
-      "lat": 11.717,
-      "lon": 108.36,
-      "dia_chi": "Đường Quốc Lộ 20, Đức Trọng, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Trần Minh Tiến",
-      "lat": 11.6184,
-      "lon": 108.221,
-      "dia_chi": "Đường Quốc Lộ 20, Tam Bố, Gia Hiệp, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Khuất Quang Hà",
-      "lat": 11.7474,
-      "lon": 108.194,
-      "dia_chi": "Đường Tỉnh Lộ 725, Tân Hà, Tân Hà Lâm Hà, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Thanh Trang",
-      "lat": 12.0072,
-      "lon": 108.415,
-      "dia_chi": "Lang Biang-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Đặng Chương Mỹ",
-      "lat": 11.9633,
-      "lon": 108.426,
-      "dia_chi": "2 Đường Đinh Công Tráng, Phường 7, Lang Biang-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Phúc Tự",
-      "lat": 11.9639,
-      "lon": 108.452,
-      "dia_chi": "Đường Võ Trường Toản, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Thái Văn Phi",
-      "lat": 11.9551,
-      "lon": 108.43,
-      "dia_chi": "Đường Hai Bà Trưng, Phường 6, Cam Ly-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Viết Kiên",
-      "lat": 11.6943,
-      "lon": 108.308,
-      "dia_chi": "Xã Đức Trọng, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Bùi Thị Thu Vân",
-      "lat": 11.9654,
-      "lon": 108.453,
-      "dia_chi": "Đường Nguyên Tử Lực, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Trân Thị Mai Duyên",
-      "lat": 11.7566,
-      "lon": 108.424,
-      "dia_chi": "Bồng Lai, Xã Hiệp Thạnh, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Phan Ngọc Dũng",
-      "lat": 11.9669,
-      "lon": 108.475,
-      "dia_chi": "Đường Ngô Gia Tự, Lâm Viên-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Đỗ Duy Tiến",
-      "lat": 11.9735,
-      "lon": 108.452,
-      "dia_chi": "Đường Nguyên Tử Lực, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Bùi Thanh Tùng",
-      "lat": 11.6904,
-      "lon": 108.373,
-      "dia_chi": "KCN Phú Hội, P'Ré, Xã Đức Trọng, Tỉnh Lâm Đồng"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Thị Thúy Phượng",
-      "lat": 11.3699,
-      "lon": 106.049,
-      "dia_chi": "Đường Quốc Lộ 22B, Châu Thành, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Đào Kim Phiến",
-      "lat": 11.3127,
-      "lon": 106.132,
-      "dia_chi": "Tiệm Điện Mẫn, Đường Điện Biên Phủ, Ninh Thạnh, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Cửa Hàng Bảo Quốc - Bán Lẻ",
-      "lat": 11.0839,
-      "lon": 106.231,
-      "dia_chi": "Đường Quốc Lộ 22, Bến Cầu, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Thị Cẩm Hường",
-      "lat": 11.0606,
-      "lon": 106.318,
-      "dia_chi": "Đường Quốc Lộ 22, Gò Dầu, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Huỳnh Văn Hai",
-      "lat": 11.0281,
-      "lon": 106.221,
-      "dia_chi": "Đường Tỉnh Lộ 786, Phước Chỉ, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Trần Văn Đức",
-      "lat": 11.2537,
-      "lon": 106.021,
-      "dia_chi": "Đường Tỉnh Lộ 796, Ninh Điền, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Nguyễn Hoài Hào",
-      "lat": 11.3544,
-      "lon": 106.006,
-      "dia_chi": "Xã Hảo Đước, Tỉnh Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Thị Tuyết",
-      "lat": 11.2886,
-      "lon": 106.084,
-      "dia_chi": "Quốc Lộ 22B, Thanh Điền, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Thị Thanh Thúy",
-      "lat": 11.1326,
-      "lon": 106.19,
-      "dia_chi": "Xã Bến Cầu, Tỉnh Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Thị Thùy Trang",
-      "lat": 10.9849,
-      "lon": 106.258,
-      "dia_chi": "Xã Phước Chỉ, Tỉnh Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Lê Thị Huệ",
-      "lat": 11.1215,
-      "lon": 106.134,
-      "dia_chi": "Đường Tỉnh Lộ 786, Long Thuận, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Thị Lệ Thu",
-      "lat": 11.4494,
-      "lon": 106.114,
-      "dia_chi": "Đường Tỉnh Lộ 793, Tân Phú, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Hữu Phúc",
-      "lat": 11.0833,
-      "lon": 106.232,
-      "dia_chi": "Đường Quốc Lộ 22, Bến Cầu, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Phạm Văn Đông",
-      "lat": 11.3119,
-      "lon": 106.027,
-      "dia_chi": "Cơ Sở In Ngọc Thơ, 969 Đường Hoàng Lê Kha, Châu Thành, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Văn Nghĩa",
-      "lat": 11.2445,
-      "lon": 106.246,
-      "dia_chi": "Đường Tỉnh 784, Truông Mít, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Thụy Hiếu",
-      "lat": 11.0823,
-      "lon": 106.39,
-      "dia_chi": "Đường Hương Lộ 2, An Tịnh, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Trịnh Thị Kính",
-      "lat": 11.0751,
-      "lon": 106.279,
-      "dia_chi": "362 Quốc Lộ 22, Gò Dầu, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Đặng Kim Chưởng",
-      "lat": 11.1279,
-      "lon": 106.404,
-      "dia_chi": "Đường Tân Thuận, Xã Hưng Thuận, Tỉnh Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Thị Ngọc Ánh",
-      "lat": 11.368,
-      "lon": 105.95,
-      "dia_chi": "Xã Phước Vinh, Tỉnh Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Trương Văn Khiêm",
-      "lat": 11.1702,
-      "lon": 106.209,
-      "dia_chi": "Đường Quốc Lộ 22B, Thạnh Đức, Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Hoàng Thụy Thúy Uyên",
-      "lat": 10.5658,
-      "lon": 107.383,
-      "dia_chi": "Đường Tỉnh Lộ 328, Phước Tân, Hồ Tràm, Hồ Chí Minh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Dư Thị Kiều",
-      "lat": 11.0379,
-      "lon": 106.228,
-      "dia_chi": "Đường tỉnh 787D, Xã Phước Chỉ, Tỉnh Tây Ninh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Võ Thị Thanh Thúy",
-      "lat": 10.4857,
-      "lon": 107.231,
-      "dia_chi": "Dự án mở rộng Quốc lộ 55, Khu Tái định cư Miễu Bà Cây Quéo, Xã Long Điền, Thành phố Hồ Chí Minh"
-    },
-    {
-      "khu_vuc": "Miền Đông",
-      "dai_ly": "Nguyễn Duy Quang",
-      "lat": 10.6654,
-      "lon": 107.149,
-      "dia_chi": "Đường Mỹ Xuân-Hòa Bình, Sông Xoài, Tân Thành, Hồ Chí Minh"
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lê Trần Siêng",
+      "lat": 9.773463,
+      "lon": 105.321042,
+      "dia_chi": "Đường tỉnh 963D, An Lợi, Xã Gò Quao, Tỉnh An Giang"
     }
   ],
   "Trà Vinh Vĩnh Long": [
@@ -3480,6 +2601,239 @@
       "dia_chi": "Đường tỉnh 857, Xã Phong Mỹ, Tỉnh Đồng Tháp"
     }
   ],
+  "Cần Thơ": [
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Võ Văn Hợp",
+      "lat": 10.2436,
+      "lon": 105.524,
+      "dia_chi": "Thạnh Hòa, Trung Nhứt, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Trần Ngọc Minh Châu",
+      "lat": 10.2754,
+      "lon": 105.529,
+      "dia_chi": "577 Đường Quốc Lộ 91, Thốt Nốt, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thị Ngọc Hường",
+      "lat": 10.095,
+      "lon": 105.43,
+      "dia_chi": "Shop Phùng Liên, Cờ Đỏ, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thành Nguyên",
+      "lat": 10.0303,
+      "lon": 105.558,
+      "dia_chi": "Trường Thắng, Thới Lai, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Đỗ Ngọc Dương",
+      "lat": 10.1779,
+      "lon": 105.344,
+      "dia_chi": "Tiệm Thủy Kf, Đường Quốc Lộ 80, Thạnh Tiến, Thạnh Quới, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Văn Dũng",
+      "lat": 10.0931,
+      "lon": 105.428,
+      "dia_chi": "Đường tỉnh 921, Xã Cờ Đỏ, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Hoàng Đức Thành",
+      "lat": 10.1472,
+      "lon": 105.33,
+      "dia_chi": "Xã Thạnh An, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Tống Bảo Long",
+      "lat": 10.006,
+      "lon": 105.53,
+      "dia_chi": "Xã Trường Xuân, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Phạm Ngọc Quân",
+      "lat": 10.2645,
+      "lon": 105.538,
+      "dia_chi": "Hẻm Số 2 Khu Dân Cư Ấp Phụng Thạnh 1, Thuận Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Trần Văn Phường",
+      "lat": 10.1551,
+      "lon": 105.464,
+      "dia_chi": "Đường Tỉnh Lộ 921, Cờ Đỏ, Trung Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Lê Hoàng Giang",
+      "lat": 10.151,
+      "lon": 105.5,
+      "dia_chi": "Xã Trung Hưng, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Minh Thúy",
+      "lat": 10.0268,
+      "lon": 105.596,
+      "dia_chi": "Xã Trường Thành, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Trần Thị Bích Phượng",
+      "lat": 10.2045,
+      "lon": 105.438,
+      "dia_chi": "Thạnh Lộc, Vĩnh Thạnh, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Lê Thị Cẩm Vấn",
+      "lat": 10.1702,
+      "lon": 105.413,
+      "dia_chi": "Tiệm Vàng Thủy Tiên, Đường Bốn Tổng-Một Ngàn, Thạnh Quới, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thị Thuỳ Hương",
+      "lat": 10.2225,
+      "lon": 105.544,
+      "dia_chi": "Trung Thạnh, Trung Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Tấn Đạt",
+      "lat": 10.079,
+      "lon": 105.42,
+      "dia_chi": "Đường Thới Đông, Thới Xuân, Cờ Đỏ, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thị Kim Huệ",
+      "lat": 10.2083,
+      "lon": 105.258,
+      "dia_chi": "Thạnh Lợi, Thạnh An, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thanh Tiến",
+      "lat": 10.2135,
+      "lon": 105.379,
+      "dia_chi": "Cửa Hàng Điện Thoại Di Động, 2282 Đường Quốc Lộ 80, Thạnh Quới, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Đinh Trí Hữu",
+      "lat": 10.2292,
+      "lon": 105.553,
+      "dia_chi": "503 Đường Quốc Lộ 91, Thuận Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Châu Thị Mỹ Phương",
+      "lat": 10.3002,
+      "lon": 105.464,
+      "dia_chi": "Nhà Thuốc Bích Thắm, Đường Quốc Lộ 80, Vĩnh Trinh, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thanh Lâm",
+      "lat": 10.0681,
+      "lon": 105.545,
+      "dia_chi": "Đường Tỉnh Lộ 922, Thới Lai, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Vũ Quang Huy",
+      "lat": 10.1582,
+      "lon": 105.435,
+      "dia_chi": "Xã Thạnh Phú, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Phan Quốc Thuấn",
+      "lat": 10.2985,
+      "lon": 105.485,
+      "dia_chi": "Khu dân cư Số 2, Xã Vĩnh Trinh, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Văn Đời",
+      "lat": 10.093,
+      "lon": 105.42,
+      "dia_chi": "Xã Cờ Đỏ, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Đặng Lê Minh",
+      "lat": 10.0934,
+      "lon": 105.43,
+      "dia_chi": "81 Đường Hà Huy Giáp, Cờ Đỏ, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Lư Nhựt Trường",
+      "lat": 10.2053,
+      "lon": 105.505,
+      "dia_chi": "Beauty Salon Chi Kiệp, Đường Tỉnh Lộ 921, Trung An, Trung Nhứt, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Văn Toàn",
+      "lat": 10.1781,
+      "lon": 105.477,
+      "dia_chi": "Trường Trung Học Cơ Sở Trung Hưng, Đường Tỉnh Lộ 921, Cờ Đỏ, Trung Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Phạm Văn Kỷ",
+      "lat": 10.0351,
+      "lon": 105.524,
+      "dia_chi": "Thới Lai, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thị Thêm",
+      "lat": 10.0851,
+      "lon": 105.587,
+      "dia_chi": "48 Đường Tỉnh Lộ 922, Trường Thành, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Võ Hoàng Lan",
+      "lat": 10.0794,
+      "lon": 105.382,
+      "dia_chi": "Thới Đông, Cờ Đỏ, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Huỳnh Văn Trọng",
+      "lat": 10.2269,
+      "lon": 105.341,
+      "dia_chi": "Xã Thạnh Quới, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Đỗ Minh Châu",
+      "lat": 10.1777,
+      "lon": 105.344,
+      "dia_chi": "Nước Mắm Phú Quốc Hồng Phước, Đường Quốc Lộ 80, Thạnh Tiến, Thạnh Quới, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Đăng Phục",
+      "lat": 10.0054,
+      "lon": 105.534,
+      "dia_chi": "Nhà Nghỉ Huệ Vân, Đường Bốn Tổng - Một Ngàn, Trường Xuân, Cần Thơ"
+    }
+  ],
   "Bạc Liêu-ST-CM": [
     {
       "khu_vuc": "Bạc Liêu-ST-CM",
@@ -3669,6 +3023,13 @@
       "lat": 9.53755,
       "lon": 105.603,
       "dia_chi": "Phường Mỹ Quới, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc Liêu-ST-CM",
+      "dai_ly": "Dương Văn Hải",
+      "lat": 10.0264,
+      "lon": 105.772,
+      "dia_chi": "C150 Đường Trần Văn Hoài, Xuân Khánh, Ninh Kiều, Cần Thơ"
     },
     {
       "khu_vuc": "Bạc Liêu-ST-CM",
@@ -4483,6 +3844,645 @@
       "lat": 10.4067,
       "lon": 105.235,
       "dia_chi": "Xã Vĩnh Hanh, Tỉnh An Giang"
+    }
+  ],
+  "Miền Đông": [
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Thanh Tiền",
+      "lat": 11.1869,
+      "lon": 107.573,
+      "dia_chi": "Đường Ngô Gia Tự, Đức Linh, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trương Ngọc Vinh",
+      "lat": 11.212,
+      "lon": 108.35,
+      "dia_chi": "Quốc lộ 28B, Lương Tây, Lương Sơn, Xã Lương Sơn, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Phạm Thị Ngọc Thi",
+      "lat": 11.2171,
+      "lon": 108.421,
+      "dia_chi": "Đường Quốc Lộ 1, Phan Thanh, Hồng Thái, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Huỳnh Tấn Trí",
+      "lat": 11.1935,
+      "lon": 108.373,
+      "dia_chi": "Đường Quốc Lộ 1, Lương Sơn, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Tấn Hải",
+      "lat": 11.1987,
+      "lon": 108.281,
+      "dia_chi": "Bình Tân, Sông Lũy, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Hà Văn Ngọ",
+      "lat": 11.1052,
+      "lon": 108.132,
+      "dia_chi": "Đường Quốc Lộ 28, Hàm Trí, Hàm Thuận Bắc, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Chín Sương",
+      "lat": 11.0991,
+      "lon": 108.105,
+      "dia_chi": "Xã Hàm Thuận Bắc, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Mỹ Lệ",
+      "lat": 11.2281,
+      "lon": 108.497,
+      "dia_chi": "Chợ Lầu, Xã Bắc Bình, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Ngọc Như Hy",
+      "lat": 11.1733,
+      "lon": 108.214,
+      "dia_chi": "Xã Hồng Sơn, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Ngọc Phiên",
+      "lat": 11.0007,
+      "lon": 108.158,
+      "dia_chi": "Đường Quốc Lộ 1, Hàm Đức, Hàm Thuận, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Nhị",
+      "lat": 11.0301,
+      "lon": 108.163,
+      "dia_chi": "Đường Quốc Lộ 1, Hàm Đức, Hàm Thuận, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Ngọc Châu",
+      "lat": 11.1289,
+      "lon": 108.11,
+      "dia_chi": "Hàm Thuận Bắc (xã), Bình Thuận"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Minh Cân",
+      "lat": 11.2282,
+      "lon": 108.496,
+      "dia_chi": "Xã Bắc Bình, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đặng Văn Cường",
+      "lat": 11.2155,
+      "lon": 107.355,
+      "dia_chi": "Ấp 2, Xã Phú Vinh, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Văn Lắm",
+      "lat": 11.2629,
+      "lon": 107.289,
+      "dia_chi": "Đường tỉnh 776, Ấp 3, Xã Thanh Sơn, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Nguyệt",
+      "lat": 11.3697,
+      "lon": 107.491,
+      "dia_chi": "Đường 600A, Nam Cát Tiên, Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Vũ Minh Công",
+      "lat": 11.0846,
+      "lon": 107.033,
+      "dia_chi": "Đường Nguyễn Tất Thành, Trị An, Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đỗ Thị Vân",
+      "lat": 10.9408,
+      "lon": 107.312,
+      "dia_chi": "Thọ Trung, Xã Xuân Lộc, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Ngọc Sơn",
+      "lat": 11.2918,
+      "lon": 107.497,
+      "dia_chi": "Rửa Xe Bọt Tuyết, Đường Hùng Vương, Phú Lâm, Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thanh Phương",
+      "lat": 11.151,
+      "lon": 107.62,
+      "dia_chi": "Tạp Hóa Lan, Đường Tỉnh Lộ 720, Gia An, Tánh Linh, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Ngọc Quang",
+      "lat": 11.2707,
+      "lon": 107.489,
+      "dia_chi": "Thanh Thọ 3, Xã Phú Lâm, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Bùi Thanh Sơn",
+      "lat": 11.1523,
+      "lon": 107.355,
+      "dia_chi": "Hiệp Lực, Hoà Thuận, Xã Định Quán, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Võ Công Thường",
+      "lat": 11.1906,
+      "lon": 107.718,
+      "dia_chi": "Cafe Trung Anh, Tỉnh Lộ 336, Bắc Ruộng, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Quang Quảng",
+      "lat": 11.3838,
+      "lon": 107.533,
+      "dia_chi": "Đường Hùng Vương, Đạ Huoai, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đặng Thị Hiếu",
+      "lat": 11.3477,
+      "lon": 107.331,
+      "dia_chi": "Ấp 7, Xã Thanh Sơn, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Văn Phương",
+      "lat": 11.1461,
+      "lon": 107.628,
+      "dia_chi": "Gia An, Tánh Linh, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Kim Sâm",
+      "lat": 11.4818,
+      "lon": 107.625,
+      "dia_chi": "Đường tỉnh 730, Bình An, Xã Đạ Huoai 2, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Phan Lê Thị Huyền Trân",
+      "lat": 11.2894,
+      "lon": 107.504,
+      "dia_chi": "Đường tỉnh 774, Phú Hợp A, Xã Phú Lâm, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Thanh Tuyền",
+      "lat": 11.4098,
+      "lon": 107.627,
+      "dia_chi": "Đường Đèo Chuối, Hà Lâm, Đạ Huoai 2, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Dương Ngọc Hùng",
+      "lat": 11.1458,
+      "lon": 107.493,
+      "dia_chi": "Đức Tín, Hoài Đức, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thành Hưng",
+      "lat": 11.225,
+      "lon": 107.29,
+      "dia_chi": "Ấp 2, Xã Thanh Sơn, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Vũ Đức Anh",
+      "lat": 11.0909,
+      "lon": 107.215,
+      "dia_chi": "Đường Hùng Vương, Thống Nhất, Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Gip A Cẩu",
+      "lat": 10.9868,
+      "lon": 107.088,
+      "dia_chi": "Cây Điều, Xã Bàu Hàm, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Mỹ Hiệp",
+      "lat": 11.1835,
+      "lon": 107.53,
+      "dia_chi": "Đức Chính, Đức Linh, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Đình Thế",
+      "lat": 11.0364,
+      "lon": 107.312,
+      "dia_chi": "Đường Tỉnh Lộ 763, Xuân Bắc, Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đoàn Văn Thành Nghĩa",
+      "lat": 11.751,
+      "lon": 108.18,
+      "dia_chi": "Mỹ Hà, Xã Tân Hà Lâm Hà, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đỗ Văn Dũng",
+      "lat": 11.7731,
+      "lon": 108.257,
+      "dia_chi": "Lâm Hà, Đinh Văn Lâm Hà, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Phạm Văn Toàn",
+      "lat": 11.8446,
+      "lon": 108.603,
+      "dia_chi": "Quốc lộ 27, Đường Mới, D'Ran, Xã D'Ran, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Vũ Thạch Quy",
+      "lat": 11.6156,
+      "lon": 108.213,
+      "dia_chi": "Đường Quốc Lộ 20, Tam Bố, Gia Hiệp, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Cảnh Minh Hà",
+      "lat": 11.9426,
+      "lon": 108.515,
+      "dia_chi": "Đường Đèo Dran, Xuân Thọ, Xuân Trường-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Văn Hảo",
+      "lat": 11.7603,
+      "lon": 108.479,
+      "dia_chi": "Đường Quốc Lộ 27, Đơn Dương, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lương Thị Hạnh Dung",
+      "lat": 11.7273,
+      "lon": 108.521,
+      "dia_chi": "Đường tỉnh 729, Hòa Bình, Diom A, Xã Quảng Lập, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lầu A Múi",
+      "lat": 11.7046,
+      "lon": 108.37,
+      "dia_chi": "Phú Hội, Đức Trọng, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Hiền Lương",
+      "lat": 11.9768,
+      "lon": 108.42,
+      "dia_chi": "Đường Phước Thành, Phường 7, Lang Biang-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Cao Thị Lan",
+      "lat": 11.7969,
+      "lon": 108.546,
+      "dia_chi": "Đường Quốc Lộ 27, Lạc Xuân, D'Ran, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Vũ Vy Vy",
+      "lat": 11.9729,
+      "lon": 108.441,
+      "dia_chi": "41 Đường Phù Đổng Thiên Vương, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Thiều Minh",
+      "lat": 11.8055,
+      "lon": 108.579,
+      "dia_chi": "Đường tỉnh 729, Hòa Bình, Diom A, Xã D'Ran, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Thị Diệu Linh",
+      "lat": 12.0502,
+      "lon": 108.488,
+      "dia_chi": "Đạ Sar, Lạc Dương, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Tài Sắc Múi",
+      "lat": 11.7054,
+      "lon": 108.368,
+      "dia_chi": "Phú Lộc, Xã Đức Trọng, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Thị Lệ Tuyết",
+      "lat": 11.7793,
+      "lon": 108.427,
+      "dia_chi": "Đường Quốc Lộ 27, Hiệp Thạnh, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Thạch Ngọc Thanh",
+      "lat": 12.0019,
+      "lon": 108.415,
+      "dia_chi": "Đường Đan Kia, Lang Biang-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Thu Hà",
+      "lat": 11.9653,
+      "lon": 108.453,
+      "dia_chi": "Hiệu May Nhàn, Đường Nguyên Tử Lực, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Quốc Anh",
+      "lat": 11.94,
+      "lon": 108.5,
+      "dia_chi": "Xuân Trường-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Ngô Thị Kim Vân",
+      "lat": 11.9448,
+      "lon": 108.493,
+      "dia_chi": "63 Đường Tự Phước, Xuân Trường-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Vy Thị Hiên",
+      "lat": 11.717,
+      "lon": 108.36,
+      "dia_chi": "Đường Quốc Lộ 20, Đức Trọng, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Minh Tiến",
+      "lat": 11.6184,
+      "lon": 108.221,
+      "dia_chi": "Đường Quốc Lộ 20, Tam Bố, Gia Hiệp, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Khuất Quang Hà",
+      "lat": 11.7474,
+      "lon": 108.194,
+      "dia_chi": "Đường Tỉnh Lộ 725, Tân Hà, Tân Hà Lâm Hà, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thanh Trang",
+      "lat": 12.0072,
+      "lon": 108.415,
+      "dia_chi": "Lang Biang-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đặng Chương Mỹ",
+      "lat": 11.9633,
+      "lon": 108.426,
+      "dia_chi": "2 Đường Đinh Công Tráng, Phường 7, Lang Biang-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Phúc Tự",
+      "lat": 11.9639,
+      "lon": 108.452,
+      "dia_chi": "Đường Võ Trường Toản, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Thái Văn Phi",
+      "lat": 11.9551,
+      "lon": 108.43,
+      "dia_chi": "Đường Hai Bà Trưng, Phường 6, Cam Ly-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Viết Kiên",
+      "lat": 11.6943,
+      "lon": 108.308,
+      "dia_chi": "Xã Đức Trọng, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Bùi Thị Thu Vân",
+      "lat": 11.9654,
+      "lon": 108.453,
+      "dia_chi": "Đường Nguyên Tử Lực, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trân Thị Mai Duyên",
+      "lat": 11.7566,
+      "lon": 108.424,
+      "dia_chi": "Bồng Lai, Xã Hiệp Thạnh, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Phan Ngọc Dũng",
+      "lat": 11.9669,
+      "lon": 108.475,
+      "dia_chi": "Đường Ngô Gia Tự, Lâm Viên-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đỗ Duy Tiến",
+      "lat": 11.9735,
+      "lon": 108.452,
+      "dia_chi": "Đường Nguyên Tử Lực, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Bùi Thanh Tùng",
+      "lat": 11.6904,
+      "lon": 108.373,
+      "dia_chi": "KCN Phú Hội, P'Ré, Xã Đức Trọng, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Thúy Phượng",
+      "lat": 11.3699,
+      "lon": 106.049,
+      "dia_chi": "Đường Quốc Lộ 22B, Châu Thành, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đào Kim Phiến",
+      "lat": 11.3127,
+      "lon": 106.132,
+      "dia_chi": "Tiệm Điện Mẫn, Đường Điện Biên Phủ, Ninh Thạnh, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Cửa Hàng Bảo Quốc - Bán Lẻ",
+      "lat": 11.0839,
+      "lon": 106.231,
+      "dia_chi": "Đường Quốc Lộ 22, Bến Cầu, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Cẩm Hường",
+      "lat": 11.0606,
+      "lon": 106.318,
+      "dia_chi": "Đường Quốc Lộ 22, Gò Dầu, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Huỳnh Văn Hai",
+      "lat": 11.0281,
+      "lon": 106.221,
+      "dia_chi": "Đường Tỉnh Lộ 786, Phước Chỉ, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Văn Đức",
+      "lat": 11.2537,
+      "lon": 106.021,
+      "dia_chi": "Đường Tỉnh Lộ 796, Ninh Điền, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Nguyễn Hoài Hào",
+      "lat": 11.3544,
+      "lon": 106.006,
+      "dia_chi": "Xã Hảo Đước, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Tuyết",
+      "lat": 11.2886,
+      "lon": 106.084,
+      "dia_chi": "Quốc Lộ 22B, Thanh Điền, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Thanh Thúy",
+      "lat": 11.1326,
+      "lon": 106.19,
+      "dia_chi": "Xã Bến Cầu, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Thùy Trang",
+      "lat": 10.9849,
+      "lon": 106.258,
+      "dia_chi": "Xã Phước Chỉ, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Huệ",
+      "lat": 11.1215,
+      "lon": 106.134,
+      "dia_chi": "Đường Tỉnh Lộ 786, Long Thuận, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Lệ Thu",
+      "lat": 11.4494,
+      "lon": 106.114,
+      "dia_chi": "Đường Tỉnh Lộ 793, Tân Phú, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Hữu Phúc",
+      "lat": 11.0833,
+      "lon": 106.232,
+      "dia_chi": "Đường Quốc Lộ 22, Bến Cầu, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Phạm Văn Đông",
+      "lat": 11.3119,
+      "lon": 106.027,
+      "dia_chi": "Cơ Sở In Ngọc Thơ, 969 Đường Hoàng Lê Kha, Châu Thành, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Văn Nghĩa",
+      "lat": 11.2445,
+      "lon": 106.246,
+      "dia_chi": "Đường Tỉnh 784, Truông Mít, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thụy Hiếu",
+      "lat": 11.0823,
+      "lon": 106.39,
+      "dia_chi": "Đường Hương Lộ 2, An Tịnh, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trịnh Thị Kính",
+      "lat": 11.0751,
+      "lon": 106.279,
+      "dia_chi": "362 Quốc Lộ 22, Gò Dầu, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đặng Kim Chưởng",
+      "lat": 11.1279,
+      "lon": 106.404,
+      "dia_chi": "Đường Tân Thuận, Xã Hưng Thuận, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Ngọc Ánh",
+      "lat": 11.368,
+      "lon": 105.95,
+      "dia_chi": "Xã Phước Vinh, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trương Văn Khiêm",
+      "lat": 11.1702,
+      "lon": 106.209,
+      "dia_chi": "Đường Quốc Lộ 22B, Thạnh Đức, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Hoàng Thụy Thúy Uyên",
+      "lat": 10.5658,
+      "lon": 107.383,
+      "dia_chi": "Đường Tỉnh Lộ 328, Phước Tân, Hồ Tràm, Hồ Chí Minh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Dư Thị Kiều",
+      "lat": 11.0379,
+      "lon": 106.228,
+      "dia_chi": "Đường tỉnh 787D, Xã Phước Chỉ, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Võ Thị Thanh Thúy",
+      "lat": 10.4857,
+      "lon": 107.231,
+      "dia_chi": "Dự án mở rộng Quốc lộ 55, Khu Tái định cư Miễu Bà Cây Quéo, Xã Long Điền, Thành phố Hồ Chí Minh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Duy Quang",
+      "lat": 10.6654,
+      "lon": 107.149,
+      "dia_chi": "Đường Mỹ Xuân-Hòa Bình, Sông Xoài, Tân Thành, Hồ Chí Minh"
     }
   ]
 }
