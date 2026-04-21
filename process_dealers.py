@@ -25,8 +25,8 @@ for kv in unique_khu_vuc:
         })
     result[kv] = records
 
-os.makedirs('map_dealers', exist_ok=True)
-with open('map_dealers/map_data.json', 'w', encoding='utf-8') as f:
+# Save to current directory for easier deployment
+with open('map_data.json', 'w', encoding='utf-8') as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 
 # Also generate a config dict string for index.html based on unique khu_vuc
