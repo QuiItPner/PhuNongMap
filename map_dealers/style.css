@@ -659,4 +659,8 @@
         width: 12px;
         height: 12px;
       }
+
+      .hide-mobile {
+        display: none;
+      }
     }
