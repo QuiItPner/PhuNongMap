@@ -1,0 +1,4488 @@
+{
+  "Tiền Giang": [
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Võ Bảo Châu",
+      "lat": 10.4379,
+      "lon": 106.711,
+      "dia_chi": "Tân Phước, Tân Đông, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Đào Thị Trường An",
+      "lat": 10.401,
+      "lon": 106.71,
+      "dia_chi": "Tân Tây, Tân Đông, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Cửa hàng Hiếu Chấn Hưng - bán lẻ",
+      "lat": 10.3624,
+      "lon": 106.674,
+      "dia_chi": "Lò Bánh Mì Hồng Nhung, 3 Đường Bến Bạch Đằng, Phường 1, Gò Công, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Nguyễn Trí Thông",
+      "lat": 10.4014,
+      "lon": 106.716,
+      "dia_chi": "Tân Tây, Tân Đông, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Nguyễn Minh Hiền",
+      "lat": 10.3004,
+      "lon": 106.717,
+      "dia_chi": "Phước Trung, Tân Hòa, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Nguyễn Thanh Việt.",
+      "lat": 10.3873,
+      "lon": 106.575,
+      "dia_chi": "Đường Huyện 18, Đồng Thạnh, Đồng Sơn, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Nguyễn Văn Quang",
+      "lat": 10.3624,
+      "lon": 106.673,
+      "dia_chi": "Đường Bến Bạch Đằng, Phường 1, Gò Công, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Nguyễn Thị Nga",
+      "lat": 10.3597,
+      "lon": 106.679,
+      "dia_chi": "Dịch Vụ Cầm Đồ Huỳnh Hiếu, Đường Thủ Khoa Huân, Gò Công, Long Thuận, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Nguyễn Thị Thuận",
+      "lat": 10.3543,
+      "lon": 106.757,
+      "dia_chi": "Đường Tỉnh Lộ 862, Tân Điền, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Trần Thị Thanh Vân",
+      "lat": 10.4186,
+      "lon": 106.673,
+      "dia_chi": "Quốc Lộ 50, Tân Trung, Sơn Qui, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Phan Thị Kiều Hạnh",
+      "lat": 10.4143,
+      "lon": 106.625,
+      "dia_chi": "Đường tỉnh 873, Phường Bình Xuân, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Đinh Hồng Phúc",
+      "lat": 10.4302,
+      "lon": 106.716,
+      "dia_chi": "Tân Phước, Tân Đông, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Võ Văn Quang",
+      "lat": 10.3518,
+      "lon": 106.757,
+      "dia_chi": "Đường Tỉnh Lộ 862, Tân Điền, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Lê Văn Khỏi",
+      "lat": 10.3289,
+      "lon": 106.754,
+      "dia_chi": "Đường Tỉnh Lộ 862, Tân Điền, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Tiền Giang",
+      "dai_ly": "Đỗ Duy Mỹ",
+      "lat": 10.4585,
+      "lon": 106.722,
+      "dia_chi": "Đường Huyện 02, Tân Đông, Đồng Tháp"
+    }
+  ],
+  "Long An": [
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Văn Khôi",
+      "lat": 10.7494,
+      "lon": 105.972,
+      "dia_chi": "ĐT. 817, Xã Bình Hòa, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Võ Văn Tuấn",
+      "lat": 10.6535,
+      "lon": 106.324,
+      "dia_chi": "Ấp Bà Mía, Xã Mỹ Thạnh, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Minh Lễ",
+      "lat": 10.6356,
+      "lon": 105.901,
+      "dia_chi": "Tỉnh Lộ 837, Nhơn Hòa Lập, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Đoàn Thành Nhân",
+      "lat": 10.6166,
+      "lon": 106.046,
+      "dia_chi": "Quốc Lộ 62, Tân Thạnh, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Trần Minh Trị",
+      "lat": 10.781,
+      "lon": 105.92,
+      "dia_chi": "Xã Tuyên Thạnh, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Võ Duy Phương",
+      "lat": 10.993,
+      "lon": 105.7,
+      "dia_chi": "Xã Khánh Hưng, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Ngân Thị Thoảng",
+      "lat": 10.8871,
+      "lon": 105.786,
+      "dia_chi": "Đường Tỉnh Lộ 831, Vĩnh Hưng, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Lê Thị Mai Phương",
+      "lat": 10.8339,
+      "lon": 105.71,
+      "dia_chi": "Đường tỉnh 831, Xã Tân Hưng, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Thành Chơn",
+      "lat": 10.6391,
+      "lon": 105.883,
+      "dia_chi": "Tỉnh Lộ 837, Hậu Thạnh, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Ngọc Châu",
+      "lat": 10.9296,
+      "lon": 106.163,
+      "dia_chi": "Tỉnh Lộ 838, Mỹ Quý, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Long Giang",
+      "lat": 10.8515,
+      "lon": 105.956,
+      "dia_chi": "Xã Bình Hiệp, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Trần Thị Đoan Thanh",
+      "lat": 10.8755,
+      "lon": 105.653,
+      "dia_chi": "Xã Vĩnh Thạnh, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Văn Phong",
+      "lat": 10.926,
+      "lon": 105.56,
+      "dia_chi": "Xã Hưng Điền, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Trần Nhật Quang",
+      "lat": 10.8543,
+      "lon": 105.842,
+      "dia_chi": "Đường Tỉnh Lộ 831, Tuyên Bình, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Khắc Nhu",
+      "lat": 10.89,
+      "lon": 105.78,
+      "dia_chi": "Đường Tỉnh Lộ 831B, Vĩnh Hưng, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Ngô Thành Danh",
+      "lat": 10.9122,
+      "lon": 105.744,
+      "dia_chi": "Đường Tỉnh Lộ 831B, Vĩnh Hưng, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Trần Văn Được",
+      "lat": 11.0137,
+      "lon": 105.777,
+      "dia_chi": "Cửa khẩu Vàm Đồn, Xã Khánh Hưng, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Thị Ngọc Châu",
+      "lat": 10.5996,
+      "lon": 106.397,
+      "dia_chi": "Đường Trương Công Định, Thủ Thừa, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Văn Đùm",
+      "lat": 10.6123,
+      "lon": 106.061,
+      "dia_chi": "9 Quốc Lộ 62, Tân Thạnh, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Lê Quốc Dũng",
+      "lat": 10.729,
+      "lon": 106.0,
+      "dia_chi": "ĐT. 817, Xã Bình Hòa, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Văn Chương",
+      "lat": 10.9067,
+      "lon": 106.315,
+      "dia_chi": "Tỉnh Lộ 822, Hiệp Hòa, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Võ Thị Hiệu",
+      "lat": 10.8147,
+      "lon": 105.898,
+      "dia_chi": "Xã Bình Hiệp, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Thị Chọn",
+      "lat": 10.7838,
+      "lon": 105.931,
+      "dia_chi": "Đường Quốc Lộ 62, Bình Hiệp, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Văn Bạch",
+      "lat": 10.7386,
+      "lon": 106.054,
+      "dia_chi": "Trần Văn Trà, Bình Phong Thạnh, Xã Mộc Hóa, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Thị Út Tới",
+      "lat": 10.9178,
+      "lon": 105.673,
+      "dia_chi": "Xã Hưng Điền, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Thị Mai",
+      "lat": 10.8919,
+      "lon": 105.779,
+      "dia_chi": "Đường Cách Mạng Tháng Tám, Vĩnh Hưng, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Võ Thành Khẩn",
+      "lat": 10.8926,
+      "lon": 105.777,
+      "dia_chi": "Đường Tỉnh Lộ 831B, Vĩnh Hưng, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Minh Trí",
+      "lat": 10.5491,
+      "lon": 106.01,
+      "dia_chi": "Tân Thạnh, Tây Ninh, Long An"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Lê Hoàng Hải",
+      "lat": 10.6487,
+      "lon": 105.832,
+      "dia_chi": "Tỉnh Lộ 837, Hậu Thạnh, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Huỳnh Văn Thưởng",
+      "lat": 10.8411,
+      "lon": 106.012,
+      "dia_chi": "Xã Bình Hiệp, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Trần Ngọc Giao",
+      "lat": 10.8926,
+      "lon": 105.777,
+      "dia_chi": "Đường Tỉnh Lộ 831B, Vĩnh Hưng, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Kiều Dũng",
+      "lat": 10.937,
+      "lon": 105.81,
+      "dia_chi": "Khánh Hưng, Tây Ninh, Long An"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Võ Thị Ý Chọn",
+      "lat": 10.7838,
+      "lon": 105.93,
+      "dia_chi": "Đường Quốc Lộ 62, Bình Hiệp, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Trung Trực",
+      "lat": 10.6419,
+      "lon": 106.136,
+      "dia_chi": "Đường Quốc Lộ N2, Thạnh Hóa, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Võ Thị Kim Yến",
+      "lat": 10.6932,
+      "lon": 106.126,
+      "dia_chi": "ĐT. 817, Xã Thạnh Phước, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Thanh Trà",
+      "lat": 10.6539,
+      "lon": 105.953,
+      "dia_chi": "Đường tỉnh 837B, Xã Nhơn Hòa Lập, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Văn Đặt",
+      "lat": 10.8976,
+      "lon": 106.229,
+      "dia_chi": "Đường tỉnh 838B, Xã Đông Thành, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Lê Quốc Tuấn",
+      "lat": 10.5229,
+      "lon": 106.491,
+      "dia_chi": "Đường Tỉnh Lộ 833, Tân Trụ, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Lương Thành Phát",
+      "lat": 10.6633,
+      "lon": 105.902,
+      "dia_chi": "Đường tỉnh 837B, Xã Hậu Thạnh, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Thành Luân",
+      "lat": 10.6442,
+      "lon": 106.261,
+      "dia_chi": "Xã Tân Tây, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Phạm Thanh Sơn",
+      "lat": 10.8234,
+      "lon": 105.936,
+      "dia_chi": "Xã Bình Hiệp, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Trịnh Văn Trung",
+      "lat": 10.526,
+      "lon": 106.48,
+      "dia_chi": "Xã Tân Trụ, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Thị Kim Ánh",
+      "lat": 10.7826,
+      "lon": 105.928,
+      "dia_chi": "Ấp Cái Sậy, Kiến Tường, Phường Kiến Tường, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Huỳnh Chí Hải",
+      "lat": 10.7769,
+      "lon": 105.932,
+      "dia_chi": "Kiến Tường, Tây Ninh, Long An"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Trần Anh Huy",
+      "lat": 10.8734,
+      "lon": 105.808,
+      "dia_chi": "Đường Tỉnh Lộ 831, Vĩnh Hưng, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Trương Thị Tuyết Mai",
+      "lat": 10.5227,
+      "lon": 106.492,
+      "dia_chi": "Đường Tỉnh Lộ 833, Tân Trụ, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Trần Thị Lệ Thu",
+      "lat": 10.8949,
+      "lon": 105.773,
+      "dia_chi": "Đường Tỉnh Lộ 831B, Vĩnh Hưng, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Công ty TNHH SX TMDV Cường Nguyên AGRI",
+      "lat": 10.838,
+      "lon": 105.89,
+      "dia_chi": "Đường Tỉnh Lộ 831, Tuyên Bình, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Võ Quốc Việt",
+      "lat": 10.7351,
+      "lon": 106.011,
+      "dia_chi": "ĐT. 817, Xã Bình Hòa, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Trần Văn Huy",
+      "lat": 10.8362,
+      "lon": 106.291,
+      "dia_chi": "Đường Tỉnh 839, Đức Huệ, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Lê Phước Hải",
+      "lat": 10.5248,
+      "lon": 106.528,
+      "dia_chi": "Đường Hương Lộ 25, Vàm Cỏ, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Văn Phước.",
+      "lat": 10.5948,
+      "lon": 106.124,
+      "dia_chi": "Xã Thạnh Hóa, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Lê Công Tuấn",
+      "lat": 10.5885,
+      "lon": 106.031,
+      "dia_chi": "Đường Quốc Lộ N2, Tân Thạnh, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Phạm Hoàng Quốc",
+      "lat": 10.7737,
+      "lon": 105.756,
+      "dia_chi": "Đường tỉnh 831E, Xã Tân Hưng, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Lê Văn Biên",
+      "lat": 10.5126,
+      "lon": 106.477,
+      "dia_chi": "Đường Hương Lộ Cống Bần, Tân Trụ, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Trần Hoài Linh",
+      "lat": 10.5984,
+      "lon": 106.334,
+      "dia_chi": "Đường Quốc Lộ 62, Tân Tây, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Trần Văn Hoành",
+      "lat": 10.895,
+      "lon": 105.82,
+      "dia_chi": "Đường tỉnh 831C, Xã Tuyên Bình, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Long An",
+      "dai_ly": "Nguyễn Đoàn Xuân Thịnh",
+      "lat": 10.5354,
+      "lon": 106.079,
+      "dia_chi": "Đường Tỉnh 868, Tân Thạnh, Tây Ninh"
+    }
+  ],
+  "Cần Thơ": [
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Lê Văn Bự",
+      "lat": 10.2588,
+      "lon": 105.545,
+      "dia_chi": "645 Đường Quốc Lộ 91, Trung Kiên, Thuận Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Văn Ngoan",
+      "lat": 10.0346,
+      "lon": 105.787,
+      "dia_chi": "8 Đường Phan Đình Phùng, Cần Thơ, Ninh Kiều, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Võ Văn Hợp",
+      "lat": 10.2436,
+      "lon": 105.524,
+      "dia_chi": "Thạnh Hòa, Trung Nhứt, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Trần Ngọc Minh Châu",
+      "lat": 10.2754,
+      "lon": 105.529,
+      "dia_chi": "577 Đường Quốc Lộ 91, Thốt Nốt, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thị Ngọc Hường",
+      "lat": 10.095,
+      "lon": 105.43,
+      "dia_chi": "Shop Phùng Liên, Cờ Đỏ, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thành Nguyên",
+      "lat": 10.0303,
+      "lon": 105.558,
+      "dia_chi": "Trường Thắng, Thới Lai, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Đỗ Ngọc Dương",
+      "lat": 10.1779,
+      "lon": 105.344,
+      "dia_chi": "Tiệm Thủy Kf, Đường Quốc Lộ 80, Thạnh Tiến, Thạnh Quới, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Văn Dũng",
+      "lat": 10.0931,
+      "lon": 105.428,
+      "dia_chi": "Đường tỉnh 921, Xã Cờ Đỏ, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Hoàng Đức Thành",
+      "lat": 10.1472,
+      "lon": 105.33,
+      "dia_chi": "Xã Thạnh An, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Tống Bảo Long",
+      "lat": 10.006,
+      "lon": 105.53,
+      "dia_chi": "Xã Trường Xuân, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Phạm Ngọc Quân",
+      "lat": 10.2645,
+      "lon": 105.538,
+      "dia_chi": "Hẻm Số 2 Khu Dân Cư Ấp Phụng Thạnh 1, Thuận Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Trần Văn Phường",
+      "lat": 10.1551,
+      "lon": 105.464,
+      "dia_chi": "Đường Tỉnh Lộ 921, Cờ Đỏ, Trung Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Lê Hoàng Giang",
+      "lat": 10.151,
+      "lon": 105.5,
+      "dia_chi": "Xã Trung Hưng, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Minh Thúy",
+      "lat": 10.0268,
+      "lon": 105.596,
+      "dia_chi": "Xã Trường Thành, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Trần Thị Bích Phượng",
+      "lat": 10.2045,
+      "lon": 105.438,
+      "dia_chi": "Thạnh Lộc, Vĩnh Thạnh, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Lê Thị Cẩm Vấn",
+      "lat": 10.1702,
+      "lon": 105.413,
+      "dia_chi": "Tiệm Vàng Thủy Tiên, Đường Bốn Tổng-Một Ngàn, Thạnh Quới, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thị Thuỳ Hương",
+      "lat": 10.2225,
+      "lon": 105.544,
+      "dia_chi": "Trung Thạnh, Trung Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Tấn Đạt",
+      "lat": 10.079,
+      "lon": 105.42,
+      "dia_chi": "Đường Thới Đông, Thới Xuân, Cờ Đỏ, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thị Kim Huệ",
+      "lat": 10.2083,
+      "lon": 105.258,
+      "dia_chi": "Thạnh Lợi, Thạnh An, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thanh Tiến",
+      "lat": 10.2135,
+      "lon": 105.379,
+      "dia_chi": "Cửa Hàng Điện Thoại Di Động, 2282 Đường Quốc Lộ 80, Thạnh Quới, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Đinh Trí Hữu",
+      "lat": 10.2292,
+      "lon": 105.553,
+      "dia_chi": "503 Đường Quốc Lộ 91, Thuận Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Châu Thị Mỹ Phương",
+      "lat": 10.3002,
+      "lon": 105.464,
+      "dia_chi": "Nhà Thuốc Bích Thắm, Đường Quốc Lộ 80, Vĩnh Trinh, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thanh Lâm",
+      "lat": 10.0681,
+      "lon": 105.545,
+      "dia_chi": "Đường Tỉnh Lộ 922, Thới Lai, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Vũ Quang Huy",
+      "lat": 10.1582,
+      "lon": 105.435,
+      "dia_chi": "Xã Thạnh Phú, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Phan Quốc Thuấn",
+      "lat": 10.2985,
+      "lon": 105.485,
+      "dia_chi": "Khu dân cư Số 2, Xã Vĩnh Trinh, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Văn Đời",
+      "lat": 10.093,
+      "lon": 105.42,
+      "dia_chi": "Xã Cờ Đỏ, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Đặng Lê Minh",
+      "lat": 10.0934,
+      "lon": 105.43,
+      "dia_chi": "81 Đường Hà Huy Giáp, Cờ Đỏ, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Lư Nhựt Trường",
+      "lat": 10.2053,
+      "lon": 105.505,
+      "dia_chi": "Beauty Salon Chi Kiệp, Đường Tỉnh Lộ 921, Trung An, Trung Nhứt, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Văn Toàn",
+      "lat": 10.1781,
+      "lon": 105.477,
+      "dia_chi": "Trường Trung Học Cơ Sở Trung Hưng, Đường Tỉnh Lộ 921, Cờ Đỏ, Trung Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Phạm Văn Kỷ",
+      "lat": 10.0351,
+      "lon": 105.524,
+      "dia_chi": "Thới Lai, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Thị Thêm",
+      "lat": 10.0851,
+      "lon": 105.587,
+      "dia_chi": "48 Đường Tỉnh Lộ 922, Trường Thành, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Võ Hoàng Lan",
+      "lat": 10.0794,
+      "lon": 105.382,
+      "dia_chi": "Thới Đông, Cờ Đỏ, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Huỳnh Văn Trọng",
+      "lat": 10.2269,
+      "lon": 105.341,
+      "dia_chi": "Xã Thạnh Quới, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Đỗ Minh Châu",
+      "lat": 10.1777,
+      "lon": 105.344,
+      "dia_chi": "Nước Mắm Phú Quốc Hồng Phước, Đường Quốc Lộ 80, Thạnh Tiến, Thạnh Quới, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Nguyễn Đăng Phục",
+      "lat": 10.0054,
+      "lon": 105.534,
+      "dia_chi": "Nhà Nghỉ Huệ Vân, Đường Bốn Tổng - Một Ngàn, Trường Xuân, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Cần Thơ",
+      "dai_ly": "Dương Văn Hải",
+      "lat": 10.0264,
+      "lon": 105.772,
+      "dia_chi": "C150 Đường Trần Văn Hoài, Xuân Khánh, Ninh Kiều, Cần Thơ"
+    }
+  ],
+  "Kiên Giang": [
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lê Trần Siêng",
+      "lat": 9.77346,
+      "lon": 105.321,
+      "dia_chi": "Đường tỉnh 963D, An Lợi, Xã Gò Quao, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Diếp Hoàng Hải",
+      "lat": 10.0552,
+      "lon": 105.121,
+      "dia_chi": "Đường Tỉnh Lộ 961, Vĩnh Thông, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Trịnh Kèn Hạng",
+      "lat": 9.72758,
+      "lon": 105.276,
+      "dia_chi": "Gò Quao, Xã Gò Quao, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Tống Văn Tuấn",
+      "lat": 10.1776,
+      "lon": 105.155,
+      "dia_chi": "Tân Lộc, Xã Tân Hội, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Tạ Minh Đạt",
+      "lat": 10.1265,
+      "lon": 105.213,
+      "dia_chi": "Kinh 2B, Xã Tân Hội, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Phạm Văn Tủy",
+      "lat": 10.0849,
+      "lon": 105.046,
+      "dia_chi": "Đường Quốc Lộ 80, Vĩnh Thông, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Đào Thị Kiều Thu",
+      "lat": 10.0581,
+      "lon": 105.067,
+      "dia_chi": "Đường Quốc Lộ 80, Vĩnh Thông, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lê Hoàng Duy",
+      "lat": 9.92945,
+      "lon": 105.214,
+      "dia_chi": "Đường Thạnh Hòa, Giồng Riềng, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Phạm Vũ Quốc Bảo",
+      "lat": 10.0336,
+      "lon": 105.229,
+      "dia_chi": "Nút giao ĐT963, Đường cao tốc Lộ Tẻ - Rạch Sỏi, Hòa Bình, Xã Thạnh Đông, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Hà Phong Vũ",
+      "lat": 10.0445,
+      "lon": 105.243,
+      "dia_chi": "Đường song hành Kinh 7A, Kinh 7A, Xã Thạnh Đông, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Cao Ngọc Diễm",
+      "lat": 10.0316,
+      "lon": 105.231,
+      "dia_chi": "Đường tỉnh 963, Đông Thọ A, Xã Thạnh Đông, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Phong Quyền",
+      "lat": 10.1173,
+      "lon": 105.225,
+      "dia_chi": "Kinh 2A, Xã Thạnh Đông, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Đỗ Văn Sum",
+      "lat": 10.1322,
+      "lon": 105.009,
+      "dia_chi": "Đường Quốc Lộ 80, Mỹ Thuận, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Quách Chí Sỹ",
+      "lat": 10.0551,
+      "lon": 105.121,
+      "dia_chi": "Nhà Thuốc B - Phương Quỳnh 2, Đường Tỉnh Lộ 961, Vĩnh Thông, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Hàn Văn Đính",
+      "lat": 10.1443,
+      "lon": 105.099,
+      "dia_chi": "Tràm Dưỡng, Xã Mỹ Thuận, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lương Thanh Bình",
+      "lat": 10.1694,
+      "lon": 105.065,
+      "dia_chi": "Mỹ Tân, Xã Mỹ Thuận, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Thanh Phúc",
+      "lat": 10.1815,
+      "lon": 105.266,
+      "dia_chi": "Thạnh Lợi, Thạnh An, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Trần Văn Sơn",
+      "lat": 10.2819,
+      "lon": 104.782,
+      "dia_chi": "Đường Quốc Lộ 80, Bình Giang, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lê Tiến",
+      "lat": 10.0681,
+      "lon": 105.231,
+      "dia_chi": "Kinh 4, Kinh 4A, Xã Thạnh Đông, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Vũ Duy Thành",
+      "lat": 10.0679,
+      "lon": 105.237,
+      "dia_chi": "Đường Quốc Lộ 80, Thạnh Đông, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Trịnh Kim Diệu",
+      "lat": 9.90569,
+      "lon": 105.162,
+      "dia_chi": "Đường Nguyễn Hùng Hiệp, Châu Thành, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Quách Vinh Quang",
+      "lat": 10.0862,
+      "lon": 105.045,
+      "dia_chi": "Chùa Mỹ Thạnh Tư, Đường Quốc Lộ 80, Vĩnh Thông, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Trần Công Ty",
+      "lat": 10.0049,
+      "lon": 105.31,
+      "dia_chi": "Ấp Tân Thạnh, Xã Tân Hiệp, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Trịnh Thanh Phong",
+      "lat": 9.79032,
+      "lon": 105.268,
+      "dia_chi": "Đường Quốc Lộ 61, Định Hòa, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Châu Văn Sái",
+      "lat": 9.77234,
+      "lon": 105.095,
+      "dia_chi": "Ngã Cạy, Xã An Biên, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Ong Thanh Hoàng",
+      "lat": 9.79022,
+      "lon": 105.269,
+      "dia_chi": "Hòa Mỹ, Xã Định Hòa, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Phạm Văn Đoàn",
+      "lat": 10.0559,
+      "lon": 105.34,
+      "dia_chi": "Đường Trâm Bầu, Tân Hiệp, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Bửu Hòa",
+      "lat": 10.1129,
+      "lon": 105.081,
+      "dia_chi": "Phước Hảo, Xã Mỹ Thuận, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Phạm Văn Thái",
+      "lat": 9.98684,
+      "lon": 105.272,
+      "dia_chi": "Đường Tỉnh Lộ 963, Thạnh Đông, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Huỳnh Văn Sáu",
+      "lat": 9.82195,
+      "lon": 105.233,
+      "dia_chi": "Đường Quốc Lộ 61, Long Thạnh, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Võ Thanh Ngoan",
+      "lat": 9.9525,
+      "lon": 105.31,
+      "dia_chi": "Ngã Sáu, Xã Giồng Riềng, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Hồ Văn Rồng",
+      "lat": 9.82433,
+      "lon": 105.267,
+      "dia_chi": "Định Hòa, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Thanh Tuấn.",
+      "lat": 10.0781,
+      "lon": 105.135,
+      "dia_chi": "Nhà Thờ Phú Hoà, Văn Tiến Dũng, Phú Hòa, Phường Vĩnh Thông, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Trần Xíu Rúi",
+      "lat": 10.2712,
+      "lon": 104.799,
+      "dia_chi": "Đường Quốc Lộ 80, Bình Giang, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Phạm Châu Quốc Việt",
+      "lat": 10.3009,
+      "lon": 104.623,
+      "dia_chi": "Đường Hòa Điền, Hòa Điền, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Huỳnh Văn Sanh",
+      "lat": 10.529,
+      "lon": 104.61,
+      "dia_chi": "Hòa Khánh, Xã Giang Thành, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Bùi Thanh Kiên",
+      "lat": 10.1545,
+      "lon": 105.108,
+      "dia_chi": "Đường Kiên Hảo, Mỹ Thuận, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Thị Thanh Tuyền",
+      "lat": 10.2313,
+      "lon": 104.86,
+      "dia_chi": "Đường Quốc Lộ 80, Bình Sơn, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Chí Công.",
+      "lat": 10.1698,
+      "lon": 104.957,
+      "dia_chi": "Số Tám, Xã Sơn Kiên, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Phạm Thế Quyền",
+      "lat": 10.352,
+      "lon": 104.86,
+      "dia_chi": "Đường tỉnh 970, Xã Bình Sơn, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lê Văn Thâm",
+      "lat": 9.93383,
+      "lon": 105.304,
+      "dia_chi": "Đường tỉnh 963, Cây Quéo, Xã Giồng Riềng, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Hồng Liên",
+      "lat": 10.1583,
+      "lon": 105.047,
+      "dia_chi": "Càn Đất, Xã Mỹ Thuận, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Danh Quốc An",
+      "lat": 9.91754,
+      "lon": 105.237,
+      "dia_chi": "Đường Trâm Bầu, Giồng Riềng, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Phạm Văn Khanh",
+      "lat": 9.8154,
+      "lon": 105.38,
+      "dia_chi": "Ấp 3, Xã Vĩnh Hòa Hưng, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Thanh Thúy",
+      "lat": 9.90572,
+      "lon": 105.31,
+      "dia_chi": "Đường Thạnh Hòa, Giồng Riềng, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Xuân Khôi",
+      "lat": 10.0277,
+      "lon": 105.197,
+      "dia_chi": "Đường Quốc Lộ 80, Thạnh Lộc, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Hồ Thị Mộng Thi",
+      "lat": 9.91087,
+      "lon": 105.315,
+      "dia_chi": "Đường Hùng Vương, Giồng Riềng, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Phạm Duy Dương",
+      "lat": 10.1578,
+      "lon": 104.973,
+      "dia_chi": "Đường Quốc Lộ 80, Sơn Kiên, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Phạm Văn Hai",
+      "lat": 10.0971,
+      "lon": 105.285,
+      "dia_chi": "Đường Thạnh Đông B, Tân Hiệp, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Đinh Hải Phong",
+      "lat": 10.4887,
+      "lon": 104.7,
+      "dia_chi": "Tràm Trổi, Xã Vĩnh Điều, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lê Thị Hà Thanh",
+      "lat": 9.99934,
+      "lon": 105.444,
+      "dia_chi": "Đường Thới Lai - Đông Bình, Thạnh Hưng, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Hứa Quốc Trung",
+      "lat": 9.94448,
+      "lon": 105.176,
+      "dia_chi": "Đường Giục Tượng, Châu Thành, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Duy Tân",
+      "lat": 9.91776,
+      "lon": 105.238,
+      "dia_chi": "Đường Trâm Bầu, Giồng Riềng, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Thị Nhặn",
+      "lat": 9.96254,
+      "lon": 105.344,
+      "dia_chi": "Thạnh Thanh, Xã Thạnh Hưng, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Dương Văn Mễnh",
+      "lat": 10.2525,
+      "lon": 104.828,
+      "dia_chi": "Đường Quốc Lộ 80, Bình Sơn, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Đặng Quốc Dũng",
+      "lat": 9.93198,
+      "lon": 105.307,
+      "dia_chi": "Chà Rào, Xã Giồng Riềng, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Đào Tấn Thành",
+      "lat": 10.0883,
+      "lon": 105.172,
+      "dia_chi": "Đường song hành Kinh 5, Kinh 5B, Xã Tân Hội, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Huỳnh Văn Minh",
+      "lat": 9.77346,
+      "lon": 105.321,
+      "dia_chi": "Đường tỉnh 963D, An Lợi, Xã Gò Quao, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Văn Sự",
+      "lat": 10.229,
+      "lon": 104.86,
+      "dia_chi": "Bình Thuận, Xã Bình Sơn, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Võ Văn Dùng",
+      "lat": 10.1103,
+      "lon": 105.08,
+      "dia_chi": "Phước Hảo, Xã Mỹ Thuận, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Đỗ Thị Thảo Em",
+      "lat": 10.2964,
+      "lon": 105.004,
+      "dia_chi": "Đường Nam Thái Sơn, Hòn Đất, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Phan Dũng Trương",
+      "lat": 9.74766,
+      "lon": 105.224,
+      "dia_chi": "Châu Thành, Xã Định Hòa, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lưu Văn Tâm",
+      "lat": 9.77367,
+      "lon": 105.316,
+      "dia_chi": "Đường Vĩnh Hòa Hưng Bắc, Gò Quao, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Đặng Thị Huệ",
+      "lat": 10.0702,
+      "lon": 105.238,
+      "dia_chi": "Đường Quốc Lộ 80, Thạnh Đông, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lê Thanh Sang",
+      "lat": 10.1311,
+      "lon": 104.964,
+      "dia_chi": "Đường Sơn Bình, Sơn Kiên, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Minh Toàn",
+      "lat": 10.2813,
+      "lon": 104.784,
+      "dia_chi": "Đường Quốc Lộ 80, Bình Giang, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Đỗ Thị Mum",
+      "lat": 10.0033,
+      "lon": 105.447,
+      "dia_chi": "Đường Thới Lai - Đông Bình, Đông Thuận, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lê Kim Chiến",
+      "lat": 10.0861,
+      "lon": 105.045,
+      "dia_chi": "Chùa Mỹ Thạnh Tư, Đường Quốc Lộ 80, Vĩnh Thông, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Phan Thị Cẩm Tiên",
+      "lat": 10.3008,
+      "lon": 104.829,
+      "dia_chi": "TL Tám Ngàn, Bình Giang, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Trung Nhã",
+      "lat": 10.2648,
+      "lon": 104.981,
+      "dia_chi": "Sơn Bình, Xã Hòn Đất, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Huỳnh Ngọc Hân",
+      "lat": 10.0634,
+      "lon": 105.087,
+      "dia_chi": "Khu phố 6, Phường Vĩnh Thông, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Văn Sử",
+      "lat": 9.96846,
+      "lon": 105.39,
+      "dia_chi": "Đường Thạnh Lộc, Thạnh Hưng, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lâm Ngọc Thuận",
+      "lat": 9.81771,
+      "lon": 105.188,
+      "dia_chi": "Xuân Đông, Xã Định Hòa, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Huỳnh Văn Chính",
+      "lat": 9.74406,
+      "lon": 105.373,
+      "dia_chi": "Đường Quốc Lộ 61, Vĩnh Hòa Hưng, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Hoàng Huy Tuấn",
+      "lat": 10.2687,
+      "lon": 104.807,
+      "dia_chi": "Thuận Tiến, Xã Bình Sơn, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Trần Văn Nhứt",
+      "lat": 10.0106,
+      "lon": 105.406,
+      "dia_chi": "Thạnh Lợi, Xã Thạnh Hưng, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Huỳnh Văn Lên",
+      "lat": 10.4266,
+      "lon": 104.716,
+      "dia_chi": "Đường Tỉnh Lộ 970B, Vĩnh Điều, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Trọng Thục",
+      "lat": 10.2452,
+      "lon": 104.968,
+      "dia_chi": "Đường Nam Thái Sơn, Hòn Đất, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Thành Phước",
+      "lat": 10.0631,
+      "lon": 105.088,
+      "dia_chi": "Trung Thành, Phường Vĩnh Thông, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Mai Trung Đăng",
+      "lat": 10.0444,
+      "lon": 105.332,
+      "dia_chi": "Ấp Thạnh Tây, Xã Tân Hiệp, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Đặng Đức Minh",
+      "lat": 10.351,
+      "lon": 104.67,
+      "dia_chi": "Hòa Lạc, Xã Hòa Điền, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Phước Hải",
+      "lat": 9.60515,
+      "lon": 105.185,
+      "dia_chi": "Đường Quốc Lộ 63, U Minh Thượng, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Nguyễn Trung Kiên",
+      "lat": 10.0442,
+      "lon": 105.243,
+      "dia_chi": "Đường song hành Kinh 7A, Kinh 7A, Xã Thạnh Đông, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lê Thị Mùi",
+      "lat": 10.2346,
+      "lon": 104.855,
+      "dia_chi": "Đường Quốc Lộ 80, Bình Sơn, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Từ Nguyễn Thúy Vy",
+      "lat": 10.237,
+      "lon": 104.85,
+      "dia_chi": "Quốc lộ 80, Thuận Hòa, Xã Bình Sơn, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Trần Hữu Nhân",
+      "lat": 10.0848,
+      "lon": 105.046,
+      "dia_chi": "Đường Quốc Lộ 80, Vĩnh Thông, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Vũ Ngọc Thịnh",
+      "lat": 9.99421,
+      "lon": 105.091,
+      "dia_chi": "Đường Lâm Quang Ky, Vĩnh Lạc, Rạch Giá, An Giang"
+    },
+    {
+      "khu_vuc": "Kiên Giang",
+      "dai_ly": "Lê Trần Siêng",
+      "lat": 9.773463,
+      "lon": 105.321042,
+      "dia_chi": "Đường tỉnh 963D, An Lợi, Xã Gò Quao, Tỉnh An Giang"
+    }
+  ],
+  "Miền Đông": [
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đường Lê Văn Sỹ, District 3, Ho Chi Minh City",
+      "lat": 10.7893532,
+      "lon": 106.6751898,
+      "dia_chi": "Đường Lê Văn Sỹ, Phường 14, Nhiêu Lộc, Hồ Chí Minh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Thanh Tiền",
+      "lat": 11.1869,
+      "lon": 107.573,
+      "dia_chi": "Đường Ngô Gia Tự, Đức Linh, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trương Ngọc Vinh",
+      "lat": 11.212,
+      "lon": 108.35,
+      "dia_chi": "Quốc lộ 28B, Lương Tây, Lương Sơn, Xã Lương Sơn, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Phạm Thị Ngọc Thi",
+      "lat": 11.2171,
+      "lon": 108.421,
+      "dia_chi": "Đường Quốc Lộ 1, Phan Thanh, Hồng Thái, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Huỳnh Tấn Trí",
+      "lat": 11.1935,
+      "lon": 108.373,
+      "dia_chi": "Đường Quốc Lộ 1, Lương Sơn, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Tấn Hải",
+      "lat": 11.1987,
+      "lon": 108.281,
+      "dia_chi": "Bình Tân, Sông Lũy, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Hà Văn Ngọ",
+      "lat": 11.1052,
+      "lon": 108.132,
+      "dia_chi": "Đường Quốc Lộ 28, Hàm Trí, Hàm Thuận Bắc, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Chín Sương",
+      "lat": 11.0991,
+      "lon": 108.105,
+      "dia_chi": "Xã Hàm Thuận Bắc, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Mỹ Lệ",
+      "lat": 11.2281,
+      "lon": 108.497,
+      "dia_chi": "Chợ Lầu, Xã Bắc Bình, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Ngọc Như Hy",
+      "lat": 11.1733,
+      "lon": 108.214,
+      "dia_chi": "Xã Hồng Sơn, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Ngọc Phiên",
+      "lat": 11.0007,
+      "lon": 108.158,
+      "dia_chi": "Đường Quốc Lộ 1, Hàm Đức, Hàm Thuận, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Nhị",
+      "lat": 11.0301,
+      "lon": 108.163,
+      "dia_chi": "Đường Quốc Lộ 1, Hàm Đức, Hàm Thuận, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Ngọc Châu",
+      "lat": 11.1289,
+      "lon": 108.11,
+      "dia_chi": "Hàm Thuận Bắc (xã), Bình Thuận"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Minh Cân",
+      "lat": 11.2282,
+      "lon": 108.496,
+      "dia_chi": "Xã Bắc Bình, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đặng Văn Cường",
+      "lat": 11.2155,
+      "lon": 107.355,
+      "dia_chi": "Ấp 2, Xã Phú Vinh, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Văn Lắm",
+      "lat": 11.2629,
+      "lon": 107.289,
+      "dia_chi": "Đường tỉnh 776, Ấp 3, Xã Thanh Sơn, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Nguyệt",
+      "lat": 11.3697,
+      "lon": 107.491,
+      "dia_chi": "Đường 600A, Nam Cát Tiên, Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Vũ Minh Công",
+      "lat": 11.0846,
+      "lon": 107.033,
+      "dia_chi": "Đường Nguyễn Tất Thành, Trị An, Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đỗ Thị Vân",
+      "lat": 10.9408,
+      "lon": 107.312,
+      "dia_chi": "Thọ Trung, Xã Xuân Lộc, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Ngọc Sơn",
+      "lat": 11.2918,
+      "lon": 107.497,
+      "dia_chi": "Rửa Xe Bọt Tuyết, Đường Hùng Vương, Phú Lâm, Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thanh Phương",
+      "lat": 11.151,
+      "lon": 107.62,
+      "dia_chi": "Tạp Hóa Lan, Đường Tỉnh Lộ 720, Gia An, Tánh Linh, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Ngọc Quang",
+      "lat": 11.2707,
+      "lon": 107.489,
+      "dia_chi": "Thanh Thọ 3, Xã Phú Lâm, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Bùi Thanh Sơn",
+      "lat": 11.1523,
+      "lon": 107.355,
+      "dia_chi": "Hiệp Lực, Hoà Thuận, Xã Định Quán, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Võ Công Thường",
+      "lat": 11.1906,
+      "lon": 107.718,
+      "dia_chi": "Cafe Trung Anh, Tỉnh Lộ 336, Bắc Ruộng, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Quang Quảng",
+      "lat": 11.3838,
+      "lon": 107.533,
+      "dia_chi": "Đường Hùng Vương, Đạ Huoai, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đặng Thị Hiếu",
+      "lat": 11.3477,
+      "lon": 107.331,
+      "dia_chi": "Ấp 7, Xã Thanh Sơn, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Văn Phương",
+      "lat": 11.1461,
+      "lon": 107.628,
+      "dia_chi": "Gia An, Tánh Linh, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Kim Sâm",
+      "lat": 11.4818,
+      "lon": 107.625,
+      "dia_chi": "Đường tỉnh 730, Bình An, Xã Đạ Huoai 2, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Phan Lê Thị Huyền Trân",
+      "lat": 11.2894,
+      "lon": 107.504,
+      "dia_chi": "Đường tỉnh 774, Phú Hợp A, Xã Phú Lâm, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Thanh Tuyền",
+      "lat": 11.4098,
+      "lon": 107.627,
+      "dia_chi": "Đường Đèo Chuối, Hà Lâm, Đạ Huoai 2, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Dương Ngọc Hùng",
+      "lat": 11.1458,
+      "lon": 107.493,
+      "dia_chi": "Đức Tín, Hoài Đức, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thành Hưng",
+      "lat": 11.225,
+      "lon": 107.29,
+      "dia_chi": "Ấp 2, Xã Thanh Sơn, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Vũ Đức Anh",
+      "lat": 11.0909,
+      "lon": 107.215,
+      "dia_chi": "Đường Hùng Vương, Thống Nhất, Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Gip A Cẩu",
+      "lat": 10.9868,
+      "lon": 107.088,
+      "dia_chi": "Cây Điều, Xã Bàu Hàm, Thành phố Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Mỹ Hiệp",
+      "lat": 11.1835,
+      "lon": 107.53,
+      "dia_chi": "Đức Chính, Đức Linh, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Đình Thế",
+      "lat": 11.0364,
+      "lon": 107.312,
+      "dia_chi": "Đường Tỉnh Lộ 763, Xuân Bắc, Đồng Nai"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đoàn Văn Thành Nghĩa",
+      "lat": 11.751,
+      "lon": 108.18,
+      "dia_chi": "Mỹ Hà, Xã Tân Hà Lâm Hà, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đỗ Văn Dũng",
+      "lat": 11.7731,
+      "lon": 108.257,
+      "dia_chi": "Lâm Hà, Đinh Văn Lâm Hà, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Phạm Văn Toàn",
+      "lat": 11.8446,
+      "lon": 108.603,
+      "dia_chi": "Quốc lộ 27, Đường Mới, D'Ran, Xã D'Ran, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Vũ Thạch Quy",
+      "lat": 11.6156,
+      "lon": 108.213,
+      "dia_chi": "Đường Quốc Lộ 20, Tam Bố, Gia Hiệp, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Cảnh Minh Hà",
+      "lat": 11.9426,
+      "lon": 108.515,
+      "dia_chi": "Đường Đèo Dran, Xuân Thọ, Xuân Trường-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Văn Hảo",
+      "lat": 11.7603,
+      "lon": 108.479,
+      "dia_chi": "Đường Quốc Lộ 27, Đơn Dương, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lương Thị Hạnh Dung",
+      "lat": 11.7273,
+      "lon": 108.521,
+      "dia_chi": "Đường tỉnh 729, Hòa Bình, Diom A, Xã Quảng Lập, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lầu A Múi",
+      "lat": 11.7046,
+      "lon": 108.37,
+      "dia_chi": "Phú Hội, Đức Trọng, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Hiền Lương",
+      "lat": 11.9768,
+      "lon": 108.42,
+      "dia_chi": "Đường Phước Thành, Phường 7, Lang Biang-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Cao Thị Lan",
+      "lat": 11.7969,
+      "lon": 108.546,
+      "dia_chi": "Đường Quốc Lộ 27, Lạc Xuân, D'Ran, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Vũ Vy Vy",
+      "lat": 11.9729,
+      "lon": 108.441,
+      "dia_chi": "41 Đường Phù Đổng Thiên Vương, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Thiều Minh",
+      "lat": 11.8055,
+      "lon": 108.579,
+      "dia_chi": "Đường tỉnh 729, Hòa Bình, Diom A, Xã D'Ran, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Thị Diệu Linh",
+      "lat": 12.0502,
+      "lon": 108.488,
+      "dia_chi": "Đạ Sar, Lạc Dương, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Tài Sắc Múi",
+      "lat": 11.7054,
+      "lon": 108.368,
+      "dia_chi": "Phú Lộc, Xã Đức Trọng, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Thị Lệ Tuyết",
+      "lat": 11.7793,
+      "lon": 108.427,
+      "dia_chi": "Đường Quốc Lộ 27, Hiệp Thạnh, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Thạch Ngọc Thanh",
+      "lat": 12.0019,
+      "lon": 108.415,
+      "dia_chi": "Đường Đan Kia, Lang Biang-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Thu Hà",
+      "lat": 11.9653,
+      "lon": 108.453,
+      "dia_chi": "Hiệu May Nhàn, Đường Nguyên Tử Lực, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Quốc Anh",
+      "lat": 11.94,
+      "lon": 108.5,
+      "dia_chi": "Xuân Trường-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Ngô Thị Kim Vân",
+      "lat": 11.9448,
+      "lon": 108.493,
+      "dia_chi": "63 Đường Tự Phước, Xuân Trường-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Vy Thị Hiên",
+      "lat": 11.717,
+      "lon": 108.36,
+      "dia_chi": "Đường Quốc Lộ 20, Đức Trọng, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Minh Tiến",
+      "lat": 11.6184,
+      "lon": 108.221,
+      "dia_chi": "Đường Quốc Lộ 20, Tam Bố, Gia Hiệp, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Khuất Quang Hà",
+      "lat": 11.7474,
+      "lon": 108.194,
+      "dia_chi": "Đường Tỉnh Lộ 725, Tân Hà, Tân Hà Lâm Hà, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thanh Trang",
+      "lat": 12.0072,
+      "lon": 108.415,
+      "dia_chi": "Lang Biang-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đặng Chương Mỹ",
+      "lat": 11.9633,
+      "lon": 108.426,
+      "dia_chi": "2 Đường Đinh Công Tráng, Phường 7, Lang Biang-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Phúc Tự",
+      "lat": 11.9639,
+      "lon": 108.452,
+      "dia_chi": "Đường Võ Trường Toản, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Thái Văn Phi",
+      "lat": 11.9551,
+      "lon": 108.43,
+      "dia_chi": "Đường Hai Bà Trưng, Phường 6, Cam Ly-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Viết Kiên",
+      "lat": 11.6943,
+      "lon": 108.308,
+      "dia_chi": "Xã Đức Trọng, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Bùi Thị Thu Vân",
+      "lat": 11.9654,
+      "lon": 108.453,
+      "dia_chi": "Đường Nguyên Tử Lực, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trân Thị Mai Duyên",
+      "lat": 11.7566,
+      "lon": 108.424,
+      "dia_chi": "Bồng Lai, Xã Hiệp Thạnh, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Phan Ngọc Dũng",
+      "lat": 11.9669,
+      "lon": 108.475,
+      "dia_chi": "Đường Ngô Gia Tự, Lâm Viên-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đỗ Duy Tiến",
+      "lat": 11.9735,
+      "lon": 108.452,
+      "dia_chi": "Đường Nguyên Tử Lực, Phường 8, Lâm Viên-Đà Lạt, Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Bùi Thanh Tùng",
+      "lat": 11.6904,
+      "lon": 108.373,
+      "dia_chi": "KCN Phú Hội, P'Ré, Xã Đức Trọng, Tỉnh Lâm Đồng"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Thúy Phượng",
+      "lat": 11.3699,
+      "lon": 106.049,
+      "dia_chi": "Đường Quốc Lộ 22B, Châu Thành, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đào Kim Phiến",
+      "lat": 11.3127,
+      "lon": 106.132,
+      "dia_chi": "Tiệm Điện Mẫn, Đường Điện Biên Phủ, Ninh Thạnh, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Cửa Hàng Bảo Quốc - Bán Lẻ",
+      "lat": 11.0839,
+      "lon": 106.231,
+      "dia_chi": "Đường Quốc Lộ 22, Bến Cầu, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Cẩm Hường",
+      "lat": 11.0606,
+      "lon": 106.318,
+      "dia_chi": "Đường Quốc Lộ 22, Gò Dầu, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Huỳnh Văn Hai",
+      "lat": 11.0281,
+      "lon": 106.221,
+      "dia_chi": "Đường Tỉnh Lộ 786, Phước Chỉ, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trần Văn Đức",
+      "lat": 11.2537,
+      "lon": 106.021,
+      "dia_chi": "Đường Tỉnh Lộ 796, Ninh Điền, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Nguyễn Hoài Hào",
+      "lat": 11.3544,
+      "lon": 106.006,
+      "dia_chi": "Xã Hảo Đước, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Tuyết",
+      "lat": 11.2886,
+      "lon": 106.084,
+      "dia_chi": "Quốc Lộ 22B, Thanh Điền, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Thanh Thúy",
+      "lat": 11.1326,
+      "lon": 106.19,
+      "dia_chi": "Xã Bến Cầu, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Thùy Trang",
+      "lat": 10.9849,
+      "lon": 106.258,
+      "dia_chi": "Xã Phước Chỉ, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Lê Thị Huệ",
+      "lat": 11.1215,
+      "lon": 106.134,
+      "dia_chi": "Đường Tỉnh Lộ 786, Long Thuận, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Lệ Thu",
+      "lat": 11.4494,
+      "lon": 106.114,
+      "dia_chi": "Đường Tỉnh Lộ 793, Tân Phú, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Hữu Phúc",
+      "lat": 11.0833,
+      "lon": 106.232,
+      "dia_chi": "Đường Quốc Lộ 22, Bến Cầu, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Phạm Văn Đông",
+      "lat": 11.3119,
+      "lon": 106.027,
+      "dia_chi": "Cơ Sở In Ngọc Thơ, 969 Đường Hoàng Lê Kha, Châu Thành, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Văn Nghĩa",
+      "lat": 11.2445,
+      "lon": 106.246,
+      "dia_chi": "Đường Tỉnh 784, Truông Mít, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thụy Hiếu",
+      "lat": 11.0823,
+      "lon": 106.39,
+      "dia_chi": "Đường Hương Lộ 2, An Tịnh, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trịnh Thị Kính",
+      "lat": 11.0751,
+      "lon": 106.279,
+      "dia_chi": "362 Quốc Lộ 22, Gò Dầu, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Đặng Kim Chưởng",
+      "lat": 11.1279,
+      "lon": 106.404,
+      "dia_chi": "Đường Tân Thuận, Xã Hưng Thuận, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Thị Ngọc Ánh",
+      "lat": 11.368,
+      "lon": 105.95,
+      "dia_chi": "Xã Phước Vinh, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Trương Văn Khiêm",
+      "lat": 11.1702,
+      "lon": 106.209,
+      "dia_chi": "Đường Quốc Lộ 22B, Thạnh Đức, Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Hoàng Thụy Thúy Uyên",
+      "lat": 10.5658,
+      "lon": 107.383,
+      "dia_chi": "Đường Tỉnh Lộ 328, Phước Tân, Hồ Tràm, Hồ Chí Minh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Dư Thị Kiều",
+      "lat": 11.0379,
+      "lon": 106.228,
+      "dia_chi": "Đường tỉnh 787D, Xã Phước Chỉ, Tỉnh Tây Ninh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Võ Thị Thanh Thúy",
+      "lat": 10.4857,
+      "lon": 107.231,
+      "dia_chi": "Dự án mở rộng Quốc lộ 55, Khu Tái định cư Miễu Bà Cây Quéo, Xã Long Điền, Thành phố Hồ Chí Minh"
+    },
+    {
+      "khu_vuc": "Miền Đông",
+      "dai_ly": "Nguyễn Duy Quang",
+      "lat": 10.6654,
+      "lon": 107.149,
+      "dia_chi": "Đường Mỹ Xuân-Hòa Bình, Sông Xoài, Tân Thành, Hồ Chí Minh"
+    }
+  ],
+  "Trà Vinh Vĩnh Long": [
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Trương Ngọc Trân",
+      "lat": 9.84582,
+      "lon": 106.353,
+      "dia_chi": "Đường Quốc Lộ 54, Châu Thành, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Sơn Hưng",
+      "lat": 9.81765,
+      "lon": 106.196,
+      "dia_chi": "Tiểu Cần, Xã Tiểu Cần, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Huỳnh Hữu Phước",
+      "lat": 9.73781,
+      "lon": 106.257,
+      "dia_chi": "Đường Quốc Lộ 54, Tập Sơn, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Trương Văn Mộc",
+      "lat": 9.83911,
+      "lon": 106.087,
+      "dia_chi": "Đường huyện 51, Xã Phong Thạnh, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Thanh Lâm",
+      "lat": 9.91093,
+      "lon": 106.152,
+      "dia_chi": "Tạp Hóa Út Hào, Tỉnh Lộ 911, Tân An, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Văn Khởi",
+      "lat": 9.86507,
+      "lon": 106.15,
+      "dia_chi": "Xã Phong Thạnh, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Trương Văn Dững",
+      "lat": 9.84046,
+      "lon": 106.165,
+      "dia_chi": "Xã Tiểu Cần, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Thạch Khỏe",
+      "lat": 9.95964,
+      "lon": 106.243,
+      "dia_chi": "Quốc Lộ 53, Bình Phú, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Văn Hải.",
+      "lat": 9.80898,
+      "lon": 106.235,
+      "dia_chi": "Tiệm Tóc Trang, Tỉnh Lộ 912, Tập Ngãi, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Trầm Kiến Tỷ",
+      "lat": 9.7316,
+      "lon": 106.36,
+      "dia_chi": "Đường Huyện 18, Nhị Trường, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Sơn Thị Ngọc Loan",
+      "lat": 9.86991,
+      "lon": 106.275,
+      "dia_chi": "Xã Song Lộc, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Văn Mãnh",
+      "lat": 9.81248,
+      "lon": 106.257,
+      "dia_chi": "Tỉnh Lộ 912, Tập Ngãi, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Hồng Khoa",
+      "lat": 9.75332,
+      "lon": 106.416,
+      "dia_chi": "Đường tỉnh 912C, Xã Hiệp Mỹ, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Quốc Dũng",
+      "lat": 9.97565,
+      "lon": 106.211,
+      "dia_chi": "Quốc Lộ 53, An Trường, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Thanh Trúc",
+      "lat": 10.1229,
+      "lon": 106.061,
+      "dia_chi": "Quốc Lộ 53, Hòa Hiệp, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Văn Nam",
+      "lat": 10.0109,
+      "lon": 106.083,
+      "dia_chi": "Đường Tỉnh Lộ 901, Hòa Bình, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Trần Thị Phi Thuyền",
+      "lat": 10.0005,
+      "lon": 106.1,
+      "dia_chi": "Tỉnh Lộ 906, Hiếu Thành, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Sỹ Văn Dũng",
+      "lat": 9.8177,
+      "lon": 106.19,
+      "dia_chi": "Đường Võ Thị Sáu, Tiểu Cần, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Hoàng Lương",
+      "lat": 10.1301,
+      "lon": 106.084,
+      "dia_chi": "Xã Tân Long Hội, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Thị Tảo",
+      "lat": 9.99812,
+      "lon": 106.041,
+      "dia_chi": "Đường Tỉnh Lộ 901, Thới Hòa, Hòa Bình, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Cao Thị Bảy",
+      "lat": 9.94421,
+      "lon": 106.177,
+      "dia_chi": "Xã An Trường, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Phạm Thanh Hải",
+      "lat": 9.73952,
+      "lon": 106.261,
+      "dia_chi": "Xã Tập Sơn, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Kiến Thanh Long",
+      "lat": 9.7689,
+      "lon": 106.36,
+      "dia_chi": "Đường Huyện 17, Nhị Trường, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Kim Thị Prơ Sach Thi",
+      "lat": 9.96067,
+      "lon": 106.244,
+      "dia_chi": "Quốc Lộ 60, Bình Phú, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Thạch Thị Bô Rây",
+      "lat": 9.8702,
+      "lon": 106.24,
+      "dia_chi": "Xã Song Lộc, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Kim Văn Út",
+      "lat": 9.87893,
+      "lon": 106.276,
+      "dia_chi": "Xã Song Lộc, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Huỳnh Thị Thắm",
+      "lat": 9.83897,
+      "lon": 106.126,
+      "dia_chi": "Đường Quốc Lộ 54, Phong Thạnh, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Phạm Thị Trang",
+      "lat": 9.95979,
+      "lon": 106.083,
+      "dia_chi": "Tỉnh Lộ 906, Hựu Thành, Vĩnh Xuân, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Võ Thị Thấy",
+      "lat": 9.80732,
+      "lon": 106.276,
+      "dia_chi": "Tỉnh Lộ 912, Tập Ngãi, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Phạm Văn Hoài",
+      "lat": 9.94084,
+      "lon": 106.361,
+      "dia_chi": "Đường Hương Lộ 10, Hòa Thuận, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Trầm Hữu Đức",
+      "lat": 9.70211,
+      "lon": 106.343,
+      "dia_chi": "Đường Huyện 25, Long Hiệp, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Văn Lẫm",
+      "lat": 9.84021,
+      "lon": 106.165,
+      "dia_chi": "Xã Tiểu Cần, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Lâm Văn Tài",
+      "lat": 9.7115,
+      "lon": 106.39,
+      "dia_chi": "Đường Huyện 12, Long Hiệp, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Trầm Thị Ngọc Đẹp",
+      "lat": 9.67091,
+      "lon": 106.292,
+      "dia_chi": "Quốc lộ 53, Trà Cú, Xã Hàm Giang, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Hồ Văn Khánh",
+      "lat": 10.2881,
+      "lon": 105.993,
+      "dia_chi": "Bình Hòa Phước, An Bình, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Lâm Văn Khoa",
+      "lat": 9.68262,
+      "lon": 106.268,
+      "dia_chi": "Đường Quốc Lộ 53, Trà Cú, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Trần Trí",
+      "lat": 9.99445,
+      "lon": 105.883,
+      "dia_chi": "Đường Quốc Lộ 54, Đông Thành, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Tuấn Khanh",
+      "lat": 10.2355,
+      "lon": 105.933,
+      "dia_chi": "Đường Quốc Lộ 1, Tân Hạnh, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Trần Thị Đào",
+      "lat": 10.055,
+      "lon": 106.19,
+      "dia_chi": "Xã Trung Thành, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Phạm Thế Hiền",
+      "lat": 10.1867,
+      "lon": 105.886,
+      "dia_chi": "Thạnh Quới, Phú Quới, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Đoàn Xuân Thùy",
+      "lat": 10.1623,
+      "lon": 105.889,
+      "dia_chi": "Thạnh Quới, Phú Quới, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Trần Thị Kim Khoa",
+      "lat": 10.1738,
+      "lon": 105.772,
+      "dia_chi": "Đường Tỉnh Lộ 908, Tân Lược, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Thị Tuyết Hạnh",
+      "lat": 10.0997,
+      "lon": 105.797,
+      "dia_chi": "ĐT. 910, Phường Bình Minh, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Lê Văn Thật",
+      "lat": 10.1532,
+      "lon": 106.142,
+      "dia_chi": "Đường Tỉnh Lộ 901, Tân Quới Trung, Quới An, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Tấn Đạt",
+      "lat": 10.1449,
+      "lon": 105.869,
+      "dia_chi": "Đường Tỉnh Lộ 908, Phú Thịnh, Song Phú, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Đào Công Danh",
+      "lat": 10.0828,
+      "lon": 105.832,
+      "dia_chi": "Đường Thuận An Rạch Sậy, Bình Minh, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Thanh Ngọc",
+      "lat": 10.0455,
+      "lon": 105.904,
+      "dia_chi": "Đường huyện 45, Xã Ngãi Tứ, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Lương Thu Hương",
+      "lat": 10.2078,
+      "lon": 105.976,
+      "dia_chi": "Long Phước, Long Hồ, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Dương Văn Chiến",
+      "lat": 9.65717,
+      "lon": 106.383,
+      "dia_chi": "Tỉnh Lộ 914, Đôn Châu, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Thu Thủy",
+      "lat": 10.0777,
+      "lon": 105.914,
+      "dia_chi": "Đường Tỉnh Lộ 905, Long Phú, Song Phú, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Thạch Sóc Kha",
+      "lat": 9.7816,
+      "lon": 106.22,
+      "dia_chi": "Xã Hùng Hòa, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Từ Hữu Tâm",
+      "lat": 9.75532,
+      "lon": 106.389,
+      "dia_chi": "Sân Vận Động, Đường Huyện 18, Nhị Trường, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Võ Văn Tuấn",
+      "lat": 10.0302,
+      "lon": 106.11,
+      "dia_chi": "Tỉnh Lộ 906, Hiếu Nhơn, Hiếu Thành, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Phạm Văn Minh",
+      "lat": 10.0483,
+      "lon": 105.973,
+      "dia_chi": "Đường Tỉnh Lộ 905, Mỹ Thạnh Trung, Tam Bình, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Từ Nguyệt Yến",
+      "lat": 10.1127,
+      "lon": 105.896,
+      "dia_chi": "Quốc Lộ 1, Song Phú, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Văn Sơn.",
+      "lat": 9.87195,
+      "lon": 106.14,
+      "dia_chi": "Xã Phong Thạnh, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Trần Văn Khải",
+      "lat": 9.92623,
+      "lon": 106.201,
+      "dia_chi": "Tân An, Xã Tân An, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Âu Văn Trường Giang",
+      "lat": 10.1107,
+      "lon": 106.12,
+      "dia_chi": "Trung Chánh, Trung Hiệp, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Văn Liệt",
+      "lat": 10.1108,
+      "lon": 106.152,
+      "dia_chi": "Đường tỉnh 907, Xã Trung Hiệp, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Lâm Vũ Phong",
+      "lat": 9.91758,
+      "lon": 106.241,
+      "dia_chi": "Đường Tỉnh Lộ 911, Tân An, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Võ Văn Mảnh",
+      "lat": 10.1308,
+      "lon": 105.862,
+      "dia_chi": "Nguyễn Văn Thảnh, Mỹ Thuận, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Lưu Vĩnh Hiệp",
+      "lat": 9.82658,
+      "lon": 106.145,
+      "dia_chi": "Đường Quốc Lộ 54, Tiểu Cần, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Lê Văn Ngọc",
+      "lat": 10.1315,
+      "lon": 105.827,
+      "dia_chi": "Đường Thuận An Rạch Sậy, Mỹ Thuận, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Thị Kiều Duyên",
+      "lat": 10.1424,
+      "lon": 106.132,
+      "dia_chi": "Đường tỉnh 907, Xã Trung Hiệp, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Tuấn Quy",
+      "lat": 10.2238,
+      "lon": 105.89,
+      "dia_chi": "Xã Phú Hựu, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Thạch Khỏe",
+      "lat": 9.95986,
+      "lon": 106.241,
+      "dia_chi": "Quốc Lộ 53, Bình Phú, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Từ Kiều Nga",
+      "lat": 10.1129,
+      "lon": 105.896,
+      "dia_chi": "Quốc Lộ 1, Song Phú, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Phạm Thanh Sang",
+      "lat": 10.1812,
+      "lon": 105.976,
+      "dia_chi": "Phú Đức, Long Hồ, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Thị Hằng",
+      "lat": 10.0751,
+      "lon": 106.151,
+      "dia_chi": "Đường Nam Kỳ Khởi Nghĩa, Trung Hiếu, Trung Thành, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Lâm Văn Cảnh",
+      "lat": 10.146,
+      "lon": 105.93,
+      "dia_chi": "Phú Lộc, Cái Ngang, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Tấn Quyền",
+      "lat": 10.0818,
+      "lon": 105.885,
+      "dia_chi": "Xã Song Phú, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Mạch Văn Sơn",
+      "lat": 9.96638,
+      "lon": 105.919,
+      "dia_chi": "Đường Quốc Lộ 54, Trà Ôn, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Văn Thảo",
+      "lat": 10.1261,
+      "lon": 105.955,
+      "dia_chi": "Phú Lộc, Cái Ngang, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Ngô Văn Hiếu",
+      "lat": 9.96133,
+      "lon": 106.086,
+      "dia_chi": "Tỉnh Lộ 906, Hiếu Nghĩa, Hiếu Thành, Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Trí Hải",
+      "lat": 10.0376,
+      "lon": 105.905,
+      "dia_chi": "Đường tỉnh 909, Xã Ngãi Tứ, Tỉnh Vĩnh Long"
+    },
+    {
+      "khu_vuc": "Trà Vinh Vĩnh Long",
+      "dai_ly": "Nguyễn Kim Tiền",
+      "lat": 10.1729,
+      "lon": 105.915,
+      "dia_chi": "Xã Phú Quới, Tỉnh Vĩnh Long"
+    }
+  ],
+  "Hậu Giang": [
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Phan Văn Đằng",
+      "lat": 9.60809,
+      "lon": 105.49,
+      "dia_chi": "Đường tỉnh 930B, Xã Xà Phiên, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Lê Hoàng Văn",
+      "lat": 9.8307,
+      "lon": 105.65,
+      "dia_chi": "Đường Quốc Lộ 61, Tân Bình, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Trương Văn Bân",
+      "lat": 9.64405,
+      "lon": 105.61,
+      "dia_chi": "Đường tỉnh 928B, Phường Long Phú 1, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Hồ Thị Mỹ Triều",
+      "lat": 9.67622,
+      "lon": 105.695,
+      "dia_chi": "Phương Bình, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Phạm Hồng Phúc",
+      "lat": 9.6803,
+      "lon": 105.53,
+      "dia_chi": "Xã Vĩnh Thuận Đông, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Lý Thị Hồ Hương",
+      "lat": 9.65134,
+      "lon": 105.678,
+      "dia_chi": "Phường Long Phú 1, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Trần Đình Hùng",
+      "lat": 9.68624,
+      "lon": 105.569,
+      "dia_chi": "Phạm Thị Gạo, Phường Long Bình, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Nguyễn Thanh Phong",
+      "lat": 9.68298,
+      "lon": 105.428,
+      "dia_chi": "Xã Vĩnh Viễn, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Trương Văn Thình",
+      "lat": 9.96527,
+      "lon": 105.598,
+      "dia_chi": "Đường Tỉnh Lộ 926, Trường Long Tây, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Đào Hoàng Nhân",
+      "lat": 9.88666,
+      "lon": 105.585,
+      "dia_chi": "Võ Thị Sáu, Xã Tân Hòa, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Trần Nhân Lý",
+      "lat": 9.76626,
+      "lon": 105.545,
+      "dia_chi": "Xã Vị Thủy, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Tô Hoàng Khởi",
+      "lat": 9.92352,
+      "lon": 105.606,
+      "dia_chi": "Xã Tân Hòa, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Nguyễn Ngọc Lăng",
+      "lat": 9.70893,
+      "lon": 105.573,
+      "dia_chi": "Đường Trần Hưng Đạo, Long Bình, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Nguyễn Văn Có",
+      "lat": 9.67546,
+      "lon": 105.559,
+      "dia_chi": "Đường Tỉnh 930, Long Mỹ, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Lê Thị Phương Linh",
+      "lat": 9.6787,
+      "lon": 105.59,
+      "dia_chi": "3 Tháng 2, Phường Long Mỹ, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Nguyễn Văn Nhỏ",
+      "lat": 9.63697,
+      "lon": 105.482,
+      "dia_chi": "Xã Xà Phiên, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Nguyễn Thanh Phong.",
+      "lat": 9.66963,
+      "lon": 105.433,
+      "dia_chi": "Đường tỉnh 930, Xã Vĩnh Viễn, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Phạm Thanh Tùng",
+      "lat": 9.81445,
+      "lon": 105.712,
+      "dia_chi": "Tỉnh Lộ 928, Phụng Hiệp, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Đinh Văn Kiệt",
+      "lat": 9.82116,
+      "lon": 105.708,
+      "dia_chi": "Tỉnh Lộ 928, Phụng Hiệp, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Đoàn Thanh Bình",
+      "lat": 9.75402,
+      "lon": 105.567,
+      "dia_chi": "Xã Vị Thủy, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Trần Hoàng Anh",
+      "lat": 9.65258,
+      "lon": 105.539,
+      "dia_chi": "Đường Tỉnh Lộ 930B, Xà Phiên, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Trần Văn Đấu",
+      "lat": 9.6028,
+      "lon": 105.41,
+      "dia_chi": "Xã Lương Tâm, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Tô Trung Tính",
+      "lat": 9.73203,
+      "lon": 105.629,
+      "dia_chi": "Tỉnh Lộ 927, Phương Bình, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Trương Thành Tài",
+      "lat": 9.88342,
+      "lon": 105.582,
+      "dia_chi": "Xã Tân Hòa, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Lê Minh Danh",
+      "lat": 9.87592,
+      "lon": 105.65,
+      "dia_chi": "Đường Quốc Lộ 61, Tân Bình, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Nguyễn Hữu Nam",
+      "lat": 9.81445,
+      "lon": 105.579,
+      "dia_chi": "ĐT. 925B, Xã Vĩnh Tường, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Võ Văn Thạnh",
+      "lat": 9.81191,
+      "lon": 105.649,
+      "dia_chi": "Đường Quốc Lộ 61, Hòa An, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Bùi Văn Khoa",
+      "lat": 9.70825,
+      "lon": 105.594,
+      "dia_chi": "Phường Long Mỹ, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Châu Tuấn Kiệt",
+      "lat": 9.61699,
+      "lon": 105.511,
+      "dia_chi": "Xã Xà Phiên, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Đinh Văn Hữu",
+      "lat": 9.69614,
+      "lon": 105.675,
+      "dia_chi": "Phường Long Phú 1, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Huỳnh Văn Triều",
+      "lat": 9.73446,
+      "lon": 105.716,
+      "dia_chi": "Xã Phương Bình, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Lê Thị Mỹ Linh",
+      "lat": 9.69462,
+      "lon": 105.63,
+      "dia_chi": "Long Mỹ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Trần Hoài Duy",
+      "lat": 9.65487,
+      "lon": 105.55,
+      "dia_chi": "Đường Tỉnh 930, Xà Phiên, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Trần Văn Tý",
+      "lat": 9.79039,
+      "lon": 105.67,
+      "dia_chi": "ĐH.28, Xã Hòa An, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Lê Thị Kim Hân",
+      "lat": 9.81663,
+      "lon": 105.649,
+      "dia_chi": "Đường Quốc Lộ 61, Phụng Hiệp, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Trương Văn Chen",
+      "lat": 9.78251,
+      "lon": 105.464,
+      "dia_chi": "128 Đường Nguyễn Huệ, Vị Tân, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Trần Văn Nhẫn",
+      "lat": 9.67803,
+      "lon": 105.688,
+      "dia_chi": "Xã Phương Bình, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Nguyễn Văn Nhiều",
+      "lat": 9.7822,
+      "lon": 105.64,
+      "dia_chi": "Xã Hòa An, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Nguyễn Thanh Tùng",
+      "lat": 9.77235,
+      "lon": 105.501,
+      "dia_chi": "Đường Quốc Lộ 61, Vị Thủy, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Công ty TNHH Nông Dược Duy Nguyễn",
+      "lat": 10.003,
+      "lon": 105.54,
+      "dia_chi": "Cầu Kênh Số 1, Xã Trường Xuân, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Đoàn Công Thật",
+      "lat": 9.80364,
+      "lon": 105.518,
+      "dia_chi": "Quốc lộ 61C, Xã Vị Thủy, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Nguyễn Quốc Thịnh",
+      "lat": 9.66778,
+      "lon": 105.654,
+      "dia_chi": "Đường Tỉnh Lộ 928B, Long Phú 1, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Lý Minh Hiếu",
+      "lat": 9.89784,
+      "lon": 105.669,
+      "dia_chi": "Đường Quốc Lộ 61, Thạnh Xuân, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Đào Tấn Thông",
+      "lat": 9.76377,
+      "lon": 105.498,
+      "dia_chi": "Xã Vĩnh Thuận Đông, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Tạ Thúy Ngân",
+      "lat": 9.78649,
+      "lon": 105.466,
+      "dia_chi": "Đường Nguyễn Trãi, Vị Tân, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Hậu Giang",
+      "dai_ly": "Trần Ngọc Trân",
+      "lat": 9.68208,
+      "lon": 105.577,
+      "dia_chi": "Quốc lộ 61B, Phường Long Mỹ, Thành phố Cần Thơ"
+    }
+  ],
+  "Đồng Tháp": [
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Hoàng Thị Mộng Tảo",
+      "lat": 10.6723,
+      "lon": 105.561,
+      "dia_chi": "Đường Tỉnh Lộ 843, Tràm Chim, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Bùi Thanh Bình",
+      "lat": 10.8092,
+      "lon": 105.34,
+      "dia_chi": "Đường Thiên Hộ Vương, Hồng Ngự, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Thị Luyến",
+      "lat": 10.8167,
+      "lon": 105.472,
+      "dia_chi": "Xã An Phước, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Dương Thị Nhanh",
+      "lat": 10.2806,
+      "lon": 105.613,
+      "dia_chi": "Khu đô thị Chợ Long Thành, Ấp Long Thành, Xã Hòa Long, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Ngô Văn Mười",
+      "lat": 10.5204,
+      "lon": 105.845,
+      "dia_chi": "Đường Trần Phú, Tháp Mười, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Võ Thị Thùy Linh",
+      "lat": 10.8211,
+      "lon": 105.521,
+      "dia_chi": "Đường Tỉnh Lộ 842, An Phước, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Phạm Thị Kim Hân",
+      "lat": 10.6214,
+      "lon": 105.522,
+      "dia_chi": "Đường Tỉnh Lộ 843, Thanh Bình, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Huỳnh Văn Bình",
+      "lat": 10.6164,
+      "lon": 105.416,
+      "dia_chi": "Đường Quốc Lộ 30, An Long, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Văn Vị",
+      "lat": 10.6088,
+      "lon": 105.577,
+      "dia_chi": "Xã Bình Thành, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Hữu Quí",
+      "lat": 10.685,
+      "lon": 105.47,
+      "dia_chi": "Đường Tỉnh Lộ 844, Phú Thọ, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Đào Thị Cúc",
+      "lat": 10.684,
+      "lon": 105.43,
+      "dia_chi": "Xã Phú Thọ, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lê Hữu Trí",
+      "lat": 10.7916,
+      "lon": 105.584,
+      "dia_chi": "Xã Tràm Chim, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Huỳnh Thanh Phong",
+      "lat": 10.6106,
+      "lon": 105.513,
+      "dia_chi": "Đường Tỉnh Lộ 843, Thanh Bình, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Dương Thị Thiểu",
+      "lat": 10.6649,
+      "lon": 105.418,
+      "dia_chi": "Xã An Long, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Phan Hiền Nhân",
+      "lat": 10.5565,
+      "lon": 105.493,
+      "dia_chi": "Đường Quốc Lộ 30, Thanh Bình, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Thanh Khang",
+      "lat": 10.6711,
+      "lon": 105.626,
+      "dia_chi": "Đường Tỉnh Lộ 844, Phú Cường, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Huỳnh Văn Chà",
+      "lat": 10.4697,
+      "lon": 105.628,
+      "dia_chi": "Nhà Trọ Huy Quang, 143 Đường Mai Văn Khải, Mỹ Ngãi, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Dương Thị Thanh Hương",
+      "lat": 10.5328,
+      "lon": 105.544,
+      "dia_chi": "Đường Quốc Lộ 30, Bình Thành, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Thanh Hải.",
+      "lat": 10.6273,
+      "lon": 105.589,
+      "dia_chi": "Xã Bình Thành, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Đặng Văn Xuyên",
+      "lat": 10.711,
+      "lon": 105.65,
+      "dia_chi": "Xã Phú Cường, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Thị Ngọc Anh",
+      "lat": 10.7416,
+      "lon": 105.528,
+      "dia_chi": "Xã Tam Nông, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Phan Văn Đạt",
+      "lat": 10.8182,
+      "lon": 105.484,
+      "dia_chi": "Đường Tỉnh Lộ 842, An Phước, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lê Hồng Nhi",
+      "lat": 10.937,
+      "lon": 105.49,
+      "dia_chi": "Xã Tân Thành, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Hồ Văn Tuấn",
+      "lat": 10.6067,
+      "lon": 105.421,
+      "dia_chi": "Xã An Long, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Văn Quy",
+      "lat": 10.6554,
+      "lon": 105.783,
+      "dia_chi": "Tỉnh Lộ 837, Trường Xuân, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Văn Phước",
+      "lat": 10.9006,
+      "lon": 105.201,
+      "dia_chi": "Đường Tỉnh Lộ 841, Thường Phước, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Dương Hoàng Linh",
+      "lat": 10.4418,
+      "lon": 105.823,
+      "dia_chi": "Xã Thanh Mỹ, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Thị Thanh",
+      "lat": 10.8139,
+      "lon": 105.44,
+      "dia_chi": "Đường Trần Phú, An Phước, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Văn Ni",
+      "lat": 10.9353,
+      "lon": 105.504,
+      "dia_chi": "Xã Tân Thành, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Minh Tâm",
+      "lat": 10.1982,
+      "lon": 105.847,
+      "dia_chi": "Đường Tỉnh Lộ 854, Tân Nhuận Đông, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Thị Cúc",
+      "lat": 10.2133,
+      "lon": 105.716,
+      "dia_chi": "Đường Tỉnh Lộ 853, Phong Hòa, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Bùi Văn Trung",
+      "lat": 10.2081,
+      "lon": 105.821,
+      "dia_chi": "Đường Tỉnh Lộ 854, Tân Nhuận Đông, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lê Văn Bé Tư",
+      "lat": 10.8816,
+      "lon": 105.451,
+      "dia_chi": "Sa Rài, Xã Tân Hồng, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Thị Thoa",
+      "lat": 10.3981,
+      "lon": 105.6,
+      "dia_chi": "Mỹ An Hưng, Xã Mỹ An Hưng, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lâm Vạn Huê",
+      "lat": 10.83,
+      "lon": 105.59,
+      "dia_chi": "Đường Tỉnh Lộ 842, An Phước, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Huỳnh Ngọc Lợi",
+      "lat": 10.3543,
+      "lon": 105.601,
+      "dia_chi": "Ấp Tân An, Xã Lấp Vò, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Đoàn Thị Phụng",
+      "lat": 10.8793,
+      "lon": 105.449,
+      "dia_chi": "Đường Quốc Lộ 30, Tân Hồng, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Thị Xuân Thảo",
+      "lat": 10.5572,
+      "lon": 105.468,
+      "dia_chi": "Thanh Bình, Xã Thanh Bình, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Võ Thị Phương Thảo",
+      "lat": 10.3489,
+      "lon": 105.731,
+      "dia_chi": "Đường Tỉnh Lộ 848, Sa Đéc, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Thế Vinh",
+      "lat": 10.6028,
+      "lon": 105.421,
+      "dia_chi": "Quốc lộ 30, Xã An Long, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lê Thành Thái",
+      "lat": 10.237,
+      "lon": 105.72,
+      "dia_chi": "Xã Hòa Long, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Chí Linh",
+      "lat": 10.4955,
+      "lon": 105.865,
+      "dia_chi": "Đường tỉnh 845, Xã Tháp Mười, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lê Văn Vân",
+      "lat": 10.2545,
+      "lon": 105.693,
+      "dia_chi": "Xã Hòa Long, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lê Văn Chương",
+      "lat": 10.294,
+      "lon": 105.71,
+      "dia_chi": "Xã Tân Dương, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Phạm Thành Nhân",
+      "lat": 10.8606,
+      "lon": 105.214,
+      "dia_chi": "Xã Thường Phước, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Văn Rành",
+      "lat": 10.5688,
+      "lon": 105.686,
+      "dia_chi": "Xã Ba Sao, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Hữu Pháp",
+      "lat": 10.8221,
+      "lon": 105.23,
+      "dia_chi": "Thường Phước, Xã Thường Phước, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Bùi Nhật Linh",
+      "lat": 10.4067,
+      "lon": 105.75,
+      "dia_chi": "Xã Bình Hàng Trung, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Huỳnh Văn Kiếm",
+      "lat": 10.5277,
+      "lon": 105.739,
+      "dia_chi": "Xã Mỹ Quí, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Thị Diệu Hiền",
+      "lat": 10.5225,
+      "lon": 105.812,
+      "dia_chi": "Đường Hồ Chí Minh, Mỹ Quí, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Đinh Thị Thanh Trúc",
+      "lat": 10.5001,
+      "lon": 105.657,
+      "dia_chi": "Đường Tỉnh Lộ 856, Ba Sao, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Nguyệt Lượng",
+      "lat": 10.3436,
+      "lon": 105.491,
+      "dia_chi": "348 Đường Ngô Quyền, Lấp Vò, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Thị  Nho",
+      "lat": 10.5337,
+      "lon": 105.577,
+      "dia_chi": "ĐT. 846, Xã Phong Mỹ, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Văn Soi",
+      "lat": 10.889,
+      "lon": 105.27,
+      "dia_chi": "Phường Thường Lạc, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Đào Văn Dủ",
+      "lat": 10.5311,
+      "lon": 105.613,
+      "dia_chi": "Cầu Tân Nghĩa, Phường Mỹ Ngãi, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Thị Lệ",
+      "lat": 10.9135,
+      "lon": 105.519,
+      "dia_chi": "Xã Tân Thành, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Thị Minh",
+      "lat": 10.8172,
+      "lon": 105.359,
+      "dia_chi": "30 Tháng 4, Hồng Ngự, Phường Hồng Ngự, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Bá Lang",
+      "lat": 10.7721,
+      "lon": 105.357,
+      "dia_chi": "Đường Quốc Lộ 30, An Bình, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Văn Nguyên",
+      "lat": 10.3838,
+      "lon": 105.646,
+      "dia_chi": "Đường Tỉnh Lộ 849, Mỹ An Hưng, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Trung Quân",
+      "lat": 10.5545,
+      "lon": 105.495,
+      "dia_chi": "Đường Quốc Lộ 30, Thanh Bình, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Văn Vách",
+      "lat": 10.5666,
+      "lon": 105.669,
+      "dia_chi": "Xã Phương Thịnh, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lê Văn Thống",
+      "lat": 10.5253,
+      "lon": 105.849,
+      "dia_chi": "Đường Quốc Lộ N2, Tháp Mười, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Hữu Thường",
+      "lat": 10.3272,
+      "lon": 105.654,
+      "dia_chi": "Tân Khánh Trung, Xã Tân Khánh Trung, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lê Văn Nghĩ",
+      "lat": 10.4661,
+      "lon": 105.854,
+      "dia_chi": "Xã Thanh Mỹ, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Hoàng Ân",
+      "lat": 10.1863,
+      "lon": 105.813,
+      "dia_chi": "Đường tỉnh 854, Ấp Hòa Hiệp, Xã Tân Nhuận Đông, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lâm Văn Khánh",
+      "lat": 10.952,
+      "lon": 105.49,
+      "dia_chi": "Peam Montear, Prey Veng, KHM"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Việt An",
+      "lat": 10.5867,
+      "lon": 105.813,
+      "dia_chi": "Xã Tháp Mười, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Đào Cẩm Tú",
+      "lat": 10.7048,
+      "lon": 105.731,
+      "dia_chi": "ĐT. 845, Xã Trường Xuân, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Văn Đẳng",
+      "lat": 10.6812,
+      "lon": 105.502,
+      "dia_chi": "Đường Tỉnh Lộ 844, Phú Thọ, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Huỳnh Nhật Khanh",
+      "lat": 10.5748,
+      "lon": 105.866,
+      "dia_chi": "Xã Đốc Binh Kiều, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Đào Thị Thanh Uyên",
+      "lat": 10.6007,
+      "lon": 105.728,
+      "dia_chi": "Chợ ngã 6, Đường tỉnh 857, Xã Mỹ Quí, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Hà Thị Cẩm Thúy",
+      "lat": 10.8459,
+      "lon": 105.222,
+      "dia_chi": "Đường Tỉnh Lộ 841, Thường Phước, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lâm Minh Thành",
+      "lat": 10.6881,
+      "lon": 105.384,
+      "dia_chi": "Đường Quốc Lộ 30, An Long, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Quốc Toản",
+      "lat": 10.4898,
+      "lon": 105.618,
+      "dia_chi": "Ba Sao, Phường Mỹ Ngãi, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lê Trung Nhựt",
+      "lat": 10.5322,
+      "lon": 105.908,
+      "dia_chi": "Xã Đốc Binh Kiều, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Lê Văn On",
+      "lat": 10.4077,
+      "lon": 105.859,
+      "dia_chi": "Xã Thanh Mỹ, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Ngọc Ẩn",
+      "lat": 10.5322,
+      "lon": 105.577,
+      "dia_chi": "Xã Phong Mỹ, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Võ Thị Phương Linh",
+      "lat": 10.4076,
+      "lon": 105.858,
+      "dia_chi": "Xã Thanh Mỹ, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Hữu Nhân",
+      "lat": 10.6653,
+      "lon": 105.697,
+      "dia_chi": "Đường Tỉnh Lộ 844, Phương Thịnh, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Võ Thanh Sơn",
+      "lat": 10.7543,
+      "lon": 105.305,
+      "dia_chi": "Long Phú Thuận, Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Hữu Nhân.",
+      "lat": 10.6437,
+      "lon": 105.669,
+      "dia_chi": "Xã Phương Thịnh, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Văn Tuấn",
+      "lat": 10.4684,
+      "lon": 105.74,
+      "dia_chi": "Xã Mỹ Thọ, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Trần Hoài Thanh",
+      "lat": 10.7252,
+      "lon": 105.691,
+      "dia_chi": "Xã Trường Xuân, Tỉnh Đồng Tháp"
+    },
+    {
+      "khu_vuc": "Đồng Tháp",
+      "dai_ly": "Nguyễn Bình Sơn",
+      "lat": 10.607,
+      "lon": 105.63,
+      "dia_chi": "Đường tỉnh 857, Xã Phong Mỹ, Tỉnh Đồng Tháp"
+    }
+  ],
+  "Bạc liêu-ST-CM": [
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Ngô Đức Hưng",
+      "lat": 9.29253,
+      "lon": 105.617,
+      "dia_chi": "ĐT. 978B, Hòa Bình, Xã Hòa Bình, Tỉnh Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Châu Minh Thành",
+      "lat": 9.36009,
+      "lon": 105.49,
+      "dia_chi": "Xã Vĩnh Thanh, Tỉnh Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Nguyễn Ngọc Hân",
+      "lat": 9.17738,
+      "lon": 104.887,
+      "dia_chi": "Đường Tỉnh Lộ 985C, Đá Bạc, Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Nguyễn Trường Giang",
+      "lat": 9.20751,
+      "lon": 105.129,
+      "dia_chi": "Đường Mậu Thân, An Xuyên, Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Nguyễn Lệ Hằng",
+      "lat": 9.19754,
+      "lon": 104.955,
+      "dia_chi": "Đường tỉnh 985C, Xã Đá Bạc, Tỉnh Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Dương Khánh Duy",
+      "lat": 9.15189,
+      "lon": 105.011,
+      "dia_chi": "Xã Khánh Bình, Tỉnh Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lâm Thái Huynh",
+      "lat": 9.70757,
+      "lon": 105.897,
+      "dia_chi": "Đường Quốc Lộ 1, Phú Tâm, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Trương Minh Quang",
+      "lat": 9.67526,
+      "lon": 105.862,
+      "dia_chi": "Trường Cấp 1 Thiện Mỹ A, Đường Tỉnh Lộ 939B, Hồ Đắc Kiện, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Hồ Văn Út",
+      "lat": 9.65839,
+      "lon": 105.84,
+      "dia_chi": "Đường Tỉnh Lộ 939B, Hồ Đắc Kiện, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Đặng Thị Kim Phụng",
+      "lat": 9.77,
+      "lon": 105.98,
+      "dia_chi": "Đường Thiều Văn Chối, Kế Sách, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Trần Bình",
+      "lat": 9.6881,
+      "lon": 105.96,
+      "dia_chi": "Công An Xã Phú Tâm, Phú Tâm, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Võ Kim Đẹp",
+      "lat": 9.67598,
+      "lon": 105.799,
+      "dia_chi": "Đường Hùng Vương, Long Hưng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Nguyễn Văn Hải",
+      "lat": 9.39722,
+      "lon": 105.509,
+      "dia_chi": "Xã Phước Long, Tỉnh Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Phạm Văn Dơn",
+      "lat": 9.47001,
+      "lon": 105.58,
+      "dia_chi": "Đường huyện 75, Phường Mỹ Quới, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lê Quốc Trình",
+      "lat": 9.63521,
+      "lon": 105.659,
+      "dia_chi": "Phường Ngã Năm, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lê Văn Tá",
+      "lat": 9.54009,
+      "lon": 105.569,
+      "dia_chi": "Phường Ngã Năm, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Tô Kim Yến",
+      "lat": 9.41895,
+      "lon": 105.693,
+      "dia_chi": "Sửa Chữa Xe Máy Nhanh Thanh Chương, Phú Lộc, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Quách Khánh Chi",
+      "lat": 9.58932,
+      "lon": 105.421,
+      "dia_chi": "Đường Tỉnh Lộ 978, Hồng Dân, Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lâm Hồng Điệp",
+      "lat": 9.48622,
+      "lon": 105.597,
+      "dia_chi": "Cầu Nàng Rền, Phường Mỹ Quới, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Cửa hàng Mỹ Chên - Bán lẻ",
+      "lat": 9.4192,
+      "lon": 105.69,
+      "dia_chi": "Kho Hàng 6 Bảnh, Phú Lộc, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Trương Văn Tuấn",
+      "lat": 9.38571,
+      "lon": 105.713,
+      "dia_chi": "Đường Quốc Lộ 1, Vĩnh Lợi, Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Châu Văn Tường",
+      "lat": 9.61329,
+      "lon": 105.647,
+      "dia_chi": "Phường Ngã Năm, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Đoàn Thị Thùy Trang",
+      "lat": 9.29792,
+      "lon": 105.685,
+      "dia_chi": "Quốc lộ 1, Bạc Liêu, Phường Bạc Liêu, Tỉnh Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Hồ Văn Tùng",
+      "lat": 9.44387,
+      "lon": 105.578,
+      "dia_chi": "Đường huyện 68, Phường Mỹ Quới, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lý Thị Cẩm Loan",
+      "lat": 9.70667,
+      "lon": 105.899,
+      "dia_chi": "Tạp Hóa Trang, Phú Tâm, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Quách Hoàng Thanh Đan",
+      "lat": 9.65434,
+      "lon": 105.836,
+      "dia_chi": "Đường Tỉnh Lộ 939B, Mỹ Hương, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Võ Văn Nhanh",
+      "lat": 9.53755,
+      "lon": 105.603,
+      "dia_chi": "Phường Mỹ Quới, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Huỳnh Hồng Nhung",
+      "lat": 9.5435,
+      "lon": 105.73,
+      "dia_chi": "Xã Tân Long, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Cô Văn Hạnh",
+      "lat": 9.50539,
+      "lon": 106.083,
+      "dia_chi": "Đường Tỉnh Lộ 934, Liêu Tú, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Hồng Văn Lư",
+      "lat": 9.46666,
+      "lon": 106.008,
+      "dia_chi": "Đường Tỉnh Lộ 935, Thạnh Thới An, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Trương Thị Hoàng Nguyệt",
+      "lat": 9.5558,
+      "lon": 105.99,
+      "dia_chi": "Phường Mỹ Xuyên, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Huỳnh Hoa Kim",
+      "lat": 9.54209,
+      "lon": 106.025,
+      "dia_chi": "Quán Nhậu Lộc Trúc, Đường Tỉnh Lộ 934, Tài Văn, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Nguyễn Phước Trường",
+      "lat": 9.53244,
+      "lon": 106.12,
+      "dia_chi": "Xã Liêu Tú, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Mã Quốc Văn",
+      "lat": 9.48882,
+      "lon": 106.14,
+      "dia_chi": "Đường Tỉnh Lộ 934, Lịch Hội Thượng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Nguyễn Thị Thu Nga",
+      "lat": 9.71667,
+      "lon": 106.033,
+      "dia_chi": "Đường Quốc Lộ 60, Trường Khánh, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Phan Văn Ngổng",
+      "lat": 9.52524,
+      "lon": 105.982,
+      "dia_chi": "Xã Thạnh Thới An, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lương Văn Nhu",
+      "lat": 9.29726,
+      "lon": 105.479,
+      "dia_chi": "Phường Láng Tròn, Tỉnh Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Đỗ Trung Thành",
+      "lat": 9.4611,
+      "lon": 105.72,
+      "dia_chi": "Đường Quốc Lộ 61B, Phú Lộc, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lê Minh Quang",
+      "lat": 9.3894,
+      "lon": 105.6,
+      "dia_chi": "Đại Lý Thanh Xuân, Đường Tỉnh Lộ 978, Châu Thới, Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lê Thị Mận",
+      "lat": 9.39008,
+      "lon": 105.599,
+      "dia_chi": "Điện Tử Lý Hưng, Đường Tỉnh Lộ 978, Châu Thới, Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Dương Văn Khải",
+      "lat": 9.45081,
+      "lon": 105.631,
+      "dia_chi": "Shop Thời Trang Đương Gương, Vĩnh Lợi, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Huỳnh Thị Nga",
+      "lat": 9.62247,
+      "lon": 106.035,
+      "dia_chi": "Đường Phạm Hùng, Sóc Trăng, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Mạnh Trường Thọ",
+      "lat": 9.35202,
+      "lon": 106.112,
+      "dia_chi": "Đường Quốc Lộ Nam Sông Hậu, Vĩnh Hải, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Nguyễn Thị Thẩm",
+      "lat": 9.70127,
+      "lon": 106.054,
+      "dia_chi": "Xã Trường Khánh, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Thái Thị Huệ",
+      "lat": 9.5564,
+      "lon": 105.95,
+      "dia_chi": "Phường Mỹ Xuyên, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Phạm Thị Hồng Nhung",
+      "lat": 9.70818,
+      "lon": 105.965,
+      "dia_chi": "Đường Tỉnh Lộ 932, Phú Tâm, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Võ Thị Thùy Dung",
+      "lat": 9.29713,
+      "lon": 105.694,
+      "dia_chi": "Đường Hai Mươi Ba Tháng Tám, Bạc Liêu, Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Phan Thế Nhân",
+      "lat": 9.29678,
+      "lon": 105.703,
+      "dia_chi": "Cafe 999, Đường Hai Mươi Ba Tháng Tám, Bạc Liêu, Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Nguyễn Văn Tuấn",
+      "lat": 9.38543,
+      "lon": 105.713,
+      "dia_chi": "Đường Quốc Lộ 1, Vĩnh Lợi, Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Trần Chí Thành",
+      "lat": 9.59729,
+      "lon": 105.906,
+      "dia_chi": "Uốn Tóc Hồng Thúy, Đường Tỉnh Lộ 938, An Ninh, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Phan Thanh Tân",
+      "lat": 9.60342,
+      "lon": 106.125,
+      "dia_chi": "Xã Long Phú, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lưu Minh Thêm",
+      "lat": 9.71706,
+      "lon": 105.853,
+      "dia_chi": "Xã Hồ Đắc Kiện, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Mai Thị Lụa",
+      "lat": 9.73975,
+      "lon": 105.872,
+      "dia_chi": "Đường Quốc Lộ 1, Hồ Đắc Kiện, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Nguyễn Hải Đăng",
+      "lat": 9.71429,
+      "lon": 105.853,
+      "dia_chi": "Xã Hồ Đắc Kiện, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Nguyễn Việt Hải",
+      "lat": 9.72079,
+      "lon": 105.853,
+      "dia_chi": "Xã Hồ Đắc Kiện, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lê Văn Ngoan",
+      "lat": 9.60649,
+      "lon": 106.127,
+      "dia_chi": "Đường Tỉnh Lộ 933, Long Phú, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Trần Văn Nhanh",
+      "lat": 9.45262,
+      "lon": 105.724,
+      "dia_chi": "Đường Quốc Lộ 61B, Phú Lộc, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Nguyễn Phú Thịnh",
+      "lat": 9.42103,
+      "lon": 105.692,
+      "dia_chi": "Xã Phú Lộc, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Thái Hồng Tố Quyên",
+      "lat": 9.6012,
+      "lon": 105.91,
+      "dia_chi": "Sân Bóng Đá Xã An Ninh, Đường Tỉnh Lộ 938, An Ninh, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Dư Chiến Thắng",
+      "lat": 9.60127,
+      "lon": 105.911,
+      "dia_chi": "Quầy Thuốc Tây Văn Hiền, Đường Tỉnh Lộ 938, An Ninh, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Trần Hán Uôi",
+      "lat": 9.32693,
+      "lon": 106.007,
+      "dia_chi": "Đường Quốc Lộ Nam Sông Hậu, Vĩnh Châu, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Sơn Hoàng Anh",
+      "lat": 9.57164,
+      "lon": 106.131,
+      "dia_chi": "Đường Huyện 9, Long Phú, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Trần Hữu Vinh",
+      "lat": 9.54965,
+      "lon": 105.935,
+      "dia_chi": "Quốc lộ 1, Phường Mỹ Xuyên, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lê Phú Tuyên",
+      "lat": 9.49031,
+      "lon": 106.12,
+      "dia_chi": "Xã Liêu Tú, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Trần Thị Thùy Trang",
+      "lat": 9.71593,
+      "lon": 105.89,
+      "dia_chi": "Đường Quốc Lộ 1, Hồ Đắc Kiện, Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lý Dủ Nguyên",
+      "lat": 9.63085,
+      "lon": 105.92,
+      "dia_chi": "Xã An Ninh, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Nguyễn Lộc Thịnh",
+      "lat": 9.30784,
+      "lon": 105.456,
+      "dia_chi": "Phường Láng Tròn, Tỉnh Cà Mau"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Lê Văn Đức",
+      "lat": 9.66153,
+      "lon": 105.883,
+      "dia_chi": "Xã An Ninh, Thành phố Cần Thơ"
+    },
+    {
+      "khu_vuc": "Bạc liêu-ST-CM",
+      "dai_ly": "Mai Hồng Tính",
+      "lat": 9.68871,
+      "lon": 105.743,
+      "dia_chi": "Hương Lộ 20, Phương Bình, Cần Thơ"
+    }
+  ],
+  "An Giang": [
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Huỳnh Bá Linh",
+      "lat": 10.5811,
+      "lon": 105.232,
+      "dia_chi": "Quốc Lộ 91, Châu Phú, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Huỳnh Chí Minh",
+      "lat": 10.495,
+      "lon": 104.89,
+      "dia_chi": "Xã Ba Chúc, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "IL Yah",
+      "lat": 10.7192,
+      "lon": 105.129,
+      "dia_chi": "Tỉnh Lộ 953, Châu Phong, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Cao Văn Hóa",
+      "lat": 10.4171,
+      "lon": 104.922,
+      "dia_chi": "Đường tỉnh 958, Xã Ô Lâm, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Lưu Kim Huệ",
+      "lat": 10.4425,
+      "lon": 105.17,
+      "dia_chi": "Đường Tỉnh Lộ 941, Vĩnh An, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Thị Quang",
+      "lat": 10.4402,
+      "lon": 105.17,
+      "dia_chi": "Đường tỉnh 947, Vĩnh Bình, Xã Vĩnh An, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Đào Hòa Em",
+      "lat": 10.6604,
+      "lon": 105.127,
+      "dia_chi": "Xã Mỹ Đức, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Ngô Thanh Tâm",
+      "lat": 10.3695,
+      "lon": 105.481,
+      "dia_chi": "Đường Tỉnh Lộ 946, Hội An, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Phan Văn Kết",
+      "lat": 10.6626,
+      "lon": 105.262,
+      "dia_chi": "Xã Chợ Vàm, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Văn Huy",
+      "lat": 10.7983,
+      "lon": 105.191,
+      "dia_chi": "Xã Tân An, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Huỳnh Trọng Khang",
+      "lat": 10.4005,
+      "lon": 105.501,
+      "dia_chi": "Xã Hội An, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "CTY TNHH SX TM DV Thùy Trinh",
+      "lat": 10.3715,
+      "lon": 105.407,
+      "dia_chi": "Tỉnh Lộ 943, Long Xuyên, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Đỗ Văn Hùng",
+      "lat": 10.361,
+      "lon": 105.28,
+      "dia_chi": "Xã Định Mỹ, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Lại Thị Phước",
+      "lat": 10.3552,
+      "lon": 105.218,
+      "dia_chi": "Đường huyện 75, Xã Định Mỹ, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Lâm Hồng Phúc",
+      "lat": 10.3286,
+      "lon": 105.37,
+      "dia_chi": "Xã Vĩnh Trạch, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Văn Hạnh",
+      "lat": 10.4193,
+      "lon": 105.503,
+      "dia_chi": "Tỉnh Lộ 944, Long Kiến, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "HTXNN Tây Phú",
+      "lat": 10.3321,
+      "lon": 105.147,
+      "dia_chi": "Xã Tây Phú, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "CTY TNHH TM-DV Vĩnh Thành Hưng",
+      "lat": 10.3559,
+      "lon": 105.368,
+      "dia_chi": "Đường Võ Văn Hoài, An Châu, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Phạm Thị Kiều Em",
+      "lat": 10.3319,
+      "lon": 105.148,
+      "dia_chi": "Đường tỉnh 947, Xã Tây Phú, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Thị Thùa",
+      "lat": 10.3715,
+      "lon": 105.407,
+      "dia_chi": "Tỉnh Lộ 943, Long Xuyên, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Mai Ân Nghĩa",
+      "lat": 10.6059,
+      "lon": 105.14,
+      "dia_chi": "Xã Thạnh Mỹ Tây, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Võ Phước Hữu",
+      "lat": 10.5738,
+      "lon": 105.305,
+      "dia_chi": "Đường Hải Thượng Lãn Ông, Phú Tân, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Cao Văn Tác",
+      "lat": 10.7998,
+      "lon": 105.083,
+      "dia_chi": "Tỉnh Lộ 957, An Phú, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Kha Phú Minh Mẫn",
+      "lat": 10.5076,
+      "lon": 104.836,
+      "dia_chi": "Đường Quốc Lộ N1, Vĩnh Gia, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Trương Công Dũng",
+      "lat": 10.385,
+      "lon": 105.37,
+      "dia_chi": "Phường Bình Đức, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Trần Quang Hoa",
+      "lat": 10.685,
+      "lon": 105.08,
+      "dia_chi": "Nhà ga Cáp treo Núi Sam, Châu Thị Tế, Phường Vĩnh Tế, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Phan Trúc Hương",
+      "lat": 10.6391,
+      "lon": 105.172,
+      "dia_chi": "Vĩnh Thạnh Trung, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Dương Phạm Khương",
+      "lat": 10.2666,
+      "lon": 105.431,
+      "dia_chi": "966 Đường Quốc Lộ 80, Phú Hòa, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Văn Nhỉ",
+      "lat": 10.8693,
+      "lon": 105.049,
+      "dia_chi": "Xã Nhơn Hội, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Lâm Ngọc Nhớ",
+      "lat": 10.5553,
+      "lon": 105.273,
+      "dia_chi": "Quốc Lộ 91, Bình Mỹ, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Tấn Tài",
+      "lat": 10.8982,
+      "lon": 105.126,
+      "dia_chi": "Xã Phú Hữu, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Trần Hòa Phong",
+      "lat": 10.8169,
+      "lon": 105.091,
+      "dia_chi": "Đường Bạch Đằng, An Phú, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Phạm Bòn Hai",
+      "lat": 10.4981,
+      "lon": 105.527,
+      "dia_chi": "Xã Cù Lao Giêng, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Phan Kim Duyên",
+      "lat": 10.7685,
+      "lon": 105.264,
+      "dia_chi": "Tỉnh Lộ 954, Tân Châu, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Kiều Uyên",
+      "lat": 10.6778,
+      "lon": 105.084,
+      "dia_chi": "Phường Vĩnh Tế, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Phan Thái Đăng",
+      "lat": 10.6724,
+      "lon": 105.335,
+      "dia_chi": "Tỉnh Lộ 954, Phú An, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Thị Ngọc Giàu",
+      "lat": 10.7807,
+      "lon": 105.162,
+      "dia_chi": "Xã Châu Phong, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Phan Thị Bảo Linh",
+      "lat": 10.7422,
+      "lon": 105.289,
+      "dia_chi": "Tỉnh Lộ 954, Phú Lâm, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Dương Thành Nam",
+      "lat": 10.7413,
+      "lon": 105.246,
+      "dia_chi": "Xã Phú Lâm, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Đặng Văn Nước",
+      "lat": 10.6141,
+      "lon": 105.029,
+      "dia_chi": "Phường Thới Sơn, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Cao Văn Khứa",
+      "lat": 10.4069,
+      "lon": 105.163,
+      "dia_chi": "Đường tỉnh 947, Xã Vĩnh An, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Thị Trường An",
+      "lat": 10.6167,
+      "lon": 105.114,
+      "dia_chi": "Xã Thạnh Mỹ Tây, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Trương Văn Trung",
+      "lat": 10.5513,
+      "lon": 104.993,
+      "dia_chi": "Xã An Cư, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Trần Văn Thanh",
+      "lat": 10.5455,
+      "lon": 105.186,
+      "dia_chi": "Xã Thạnh Mỹ Tây, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Ôn Thị Kiều Trang",
+      "lat": 10.4966,
+      "lon": 104.903,
+      "dia_chi": "Đường Thủy Đài Sơn, Ba Chúc, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Trần Hữu Phước",
+      "lat": 10.5625,
+      "lon": 105.348,
+      "dia_chi": "Xã Phú Tân, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Chí Công",
+      "lat": 10.7521,
+      "lon": 105.216,
+      "dia_chi": "Xã Châu Phong, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Bùi Thanh Phong",
+      "lat": 10.3767,
+      "lon": 105.117,
+      "dia_chi": "Xã Vĩnh An, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Phạm Thanh Thúy",
+      "lat": 10.5488,
+      "lon": 105.26,
+      "dia_chi": "Đường tỉnh 947, Xã Bình Mỹ, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Chau Chanh Thương",
+      "lat": 10.547,
+      "lon": 105.01,
+      "dia_chi": "Xã An Cư, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Trần Thị Hồng Phương",
+      "lat": 10.9547,
+      "lon": 105.084,
+      "dia_chi": "Đường Quốc Lộ 91C, Khánh Bình, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Đỗ Duy Tân",
+      "lat": 10.2587,
+      "lon": 105.148,
+      "dia_chi": "Đường Nguyễn Thị Hạnh, Óc Eo, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Chau Vith Chia",
+      "lat": 10.5156,
+      "lon": 105.035,
+      "dia_chi": "Đường Lê Lợi, Chi Lăng, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Trần Anh Dũng",
+      "lat": 10.4278,
+      "lon": 105.474,
+      "dia_chi": "Xã Long Kiến, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Văn Que",
+      "lat": 10.5192,
+      "lon": 105.233,
+      "dia_chi": "Đường tỉnh 947, Xã Bình Mỹ, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Chau Kun Thea",
+      "lat": 10.483,
+      "lon": 105.02,
+      "dia_chi": "Xã Núi Cấm, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Hữu Phước.",
+      "lat": 10.4892,
+      "lon": 105.1,
+      "dia_chi": "Đường tỉnh 945, Xã Thạnh Mỹ Tây, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Võ Minh Thắng",
+      "lat": 10.4855,
+      "lon": 105.127,
+      "dia_chi": "Xã Thạnh Mỹ Tây, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Trần Văn Phát",
+      "lat": 10.9525,
+      "lon": 105.082,
+      "dia_chi": "Đường tỉnh 957, Long Bình, Xã Khánh Bình, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Phan Thanh Thúy",
+      "lat": 10.2615,
+      "lon": 105.243,
+      "dia_chi": "Tỉnh Lộ 943, Thoại Sơn, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Dương Thị Kim Nhung",
+      "lat": 10.3154,
+      "lon": 105.288,
+      "dia_chi": "Xã Định Mỹ, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Võ Công Tráng",
+      "lat": 10.3226,
+      "lon": 105.235,
+      "dia_chi": "Xã Định Mỹ, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Huỳnh Kim Nga",
+      "lat": 10.428,
+      "lon": 105.0,
+      "dia_chi": "Đường Nguyễn Thị Minh Khai, Tri Tôn, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Chau Sơn Huynh",
+      "lat": 10.517,
+      "lon": 105.03,
+      "dia_chi": "Đường tỉnh 948, Phường Chi Lăng, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Trần Văn Tùng",
+      "lat": 10.5543,
+      "lon": 105.39,
+      "dia_chi": "Tỉnh Lộ 942, Chợ Mới, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Hữu Đức",
+      "lat": 10.4892,
+      "lon": 105.354,
+      "dia_chi": "Xã Nhơn Mỹ, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Trung Hiền",
+      "lat": 10.4536,
+      "lon": 105.249,
+      "dia_chi": "Đường Tỉnh Lộ 941, Vĩnh Hanh, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Phạm Thị Vân",
+      "lat": 10.303473,
+      "lon": 105.071479,
+      "dia_chi": "Xã Cô Tô, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Tấn Thành",
+      "lat": 10.8704,
+      "lon": 105.154,
+      "dia_chi": "Ủy Ban Nhân Dân Xã Phú Lộc, Vĩnh Xương, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Dương Rạng Đông",
+      "lat": 10.5016,
+      "lon": 105.447,
+      "dia_chi": "Xã Nhơn Mỹ, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Nguyễn Văn Trường",
+      "lat": 10.8554,
+      "lon": 105.079,
+      "dia_chi": "Đường Quốc Lộ 91C, Nhơn Hội, An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Trịnh Thị Bích Thuận",
+      "lat": 10.4015,
+      "lon": 105.387,
+      "dia_chi": "Phường Bình Đức, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Trần Thị Diểm My",
+      "lat": 10.3235,
+      "lon": 105.365,
+      "dia_chi": "Xã Phú Hòa, Tỉnh An Giang"
+    },
+    {
+      "khu_vuc": "An Giang",
+      "dai_ly": "Lê Thị Kim Trong",
+      "lat": 10.4067,
+      "lon": 105.235,
+      "dia_chi": "Xã Vĩnh Hanh, Tỉnh An Giang"
+    }
+  ]
+}
